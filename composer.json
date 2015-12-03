@@ -1,0 +1,45 @@
+{
+  "name": "dbsparkle-team/unispot",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "geo",
+    "unispot",
+    "google",
+    "location",
+    "address",
+    "phone"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Domi Besedin",
+      "email": "dimbs09@gmail.com"
+    },
+    {
+      "name": "Dmitry Fedorov",
+      "email": "klka1@live.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dbsparkle-team\\unispot\\": "src"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0",
+    "giggsey/libphonenumber-for-php": "~7.0",
+    "bower-asset/font-awesome": "*",
+    "bower-asset/flag-icon-css": "*",
+    "bower-asset/geocomplete": "~1.0",
+    "bower-asset/intl-tel-input": "*",
+    "geoip2/geoip2": "dev-master"
+  },
+  "extra": {
+    "bootstrap": "dbsparkle-team\\unispot\\Bootstrap",
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}
