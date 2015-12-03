@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot;
+namespace dbsparkleTeam\unispot;
 
 use Yii;
 use yii\base\Application;

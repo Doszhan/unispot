@@ -1,8 +1,8 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\location;
+namespace dbsparkleTeam\unispot\widgets\location;
 
-use dbsparkle-team\unispot\exceptions\Exception;
+use dbsparkleTeam\unispot\exceptions\Exception;
 use yii\base\Widget;
 use yii\helpers\Html;
 use yii\helpers\Json;

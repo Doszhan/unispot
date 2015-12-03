@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\country;
+namespace dbsparkleTeam\unispot\widgets\country;
 
 use yii\base\Widget;
 

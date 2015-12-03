@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\assets;
+namespace dbsparkleTeam\unispot\assets;
 
 use yii\web\AssetBundle;
 

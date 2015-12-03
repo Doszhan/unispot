@@ -2,7 +2,7 @@
 /**
  * Class Formatter
  */
-namespace dbsparkle-team\unispot\formatters;
+namespace dbsparkleTeam\unispot\formatters;
 
 abstract class Formatter
 {

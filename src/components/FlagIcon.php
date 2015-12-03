@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\components;
+namespace dbsparkleTeam\unispot\components;
 
 use yii\helpers\Html;
 use yii\base\Object;

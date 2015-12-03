@@ -1,11 +1,11 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\location;
+namespace dbsparkleTeam\unispot\widgets\location;
 
 use Yii;
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
-use dbsparkle-team\unispot\assets\GeocompleteAsset;
+use dbsparkleTeam\unispot\assets\GeocompleteAsset;
 use yii\helpers\Json;
 
 /**

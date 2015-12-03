@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\formatters;
+namespace dbsparkleTeam\unispot\formatters;
 use Geocoder\Model\Address;
 
 class AddressFormatter extends Formatter

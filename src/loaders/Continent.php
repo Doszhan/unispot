@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\loaders;
+namespace dbsparkleTeam\unispot\loaders;
 
 class Continent extends Loader
 {
@@ -13,6 +13,6 @@ class Continent extends Loader
 
     protected function createModel($data)
     {
-        return new \dbsparkle-team\unispot\models\Continent($data);
+        return new \dbsparkleTeam\unispot\models\Continent($data);
     }
 }

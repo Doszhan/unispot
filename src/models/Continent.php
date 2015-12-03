@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\models;
+namespace dbsparkleTeam\unispot\models;
 
 use yii\base\Model;
 

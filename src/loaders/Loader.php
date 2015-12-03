@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\loaders;
+namespace dbsparkleTeam\unispot\loaders;
 
 abstract class Loader
 {

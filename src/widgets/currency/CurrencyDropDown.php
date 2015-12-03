@@ -1,17 +1,17 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\currency;
+namespace dbsparkleTeam\unispot\widgets\currency;
 
 use yii\widgets\InputWidget;
-use dbsparkle-team\unispot\assets\FlagIconAsset;
+use dbsparkleTeam\unispot\assets\FlagIconAsset;
 use kartik\widgets\Select2;
 use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\web\JsExpression;
 use yii\web\View;
-use dbsparkle-team\unispot\loaders\Country;
+use dbsparkleTeam\unispot\loaders\Country;
 use Yii;
-use dbsparkle-team\unispot\components\FlagIcon;
+use dbsparkleTeam\unispot\components\FlagIcon;
 
 /**
  * Dropdown widget for currency picker

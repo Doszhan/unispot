@@ -1,16 +1,16 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\phone;
+namespace dbsparkleTeam\unispot\widgets\phone;
 
 use libphonenumber\PhoneNumberUtil;
 use libphonenumber\PhoneNumberFormat;
-use dbsparkle-team\unispot\assets\FlagIconAsset;
-use dbsparkle-team\unispot\components\FlagIcon;
-use dbsparkle-team\unispot\components\GeoIP;
+use dbsparkleTeam\unispot\assets\FlagIconAsset;
+use dbsparkleTeam\unispot\components\FlagIcon;
+use dbsparkleTeam\unispot\components\GeoIP;
 use yii\helpers\Html;
 use yii\base\Widget;
 use libphonenumber\NumberParseException;
-use dbsparkle-team\unispot\loaders\Country;
+use dbsparkleTeam\unispot\loaders\Country;
 use common\models\PhoneOrg;
 /**
  * PhoneNumber is a widget wrapper to show formatted phone with tel: link and country flag

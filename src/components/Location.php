@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\components;
+namespace dbsparkleTeam\unispot\components;
 
 use Yii;
 use yii\base\Object;
@@ -10,7 +10,7 @@ use Geocoder\Provider\GeoIP2;
 use Geocoder\Adapter\GeoIP2Adapter;
 use GeoIp2\Database\Reader;
 use yii\helpers\Url;
-use dbsparkle-team\unispot\formatters\AddressFormatter;
+use dbsparkleTeam\unispot\formatters\AddressFormatter;
 use Geocoder\Model\AddressCollection;
 
 class Location extends Object
@@ -41,8 +41,8 @@ class Location extends Object
     /**
      * usage e.g.
      * ```
-     * use \dbsparkle-team\unispot\formatters\AddressFormatter;
-     * use \dbsparkle-team\unispot\components\Location;
+     * use \dbsparkleTeam\unispot\formatters\AddressFormatter;
+     * use \dbsparkleTeam\unispot\components\Location;
      *
      * Location::getAddress(60.023554,30.2232882,[
      *     'type' => AddressFormatter::TYPE_FULL,
