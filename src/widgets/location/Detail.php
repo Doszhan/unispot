@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\location;
+namespace dbsparkleTeam\unispot\widgets\location;
 
 use yii\widgets\DetailView;
 

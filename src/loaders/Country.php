@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\loaders;
+namespace dbsparkleTeam\unispot\loaders;
 
 class Country extends Loader
 {
@@ -13,7 +13,7 @@ class Country extends Loader
 
     protected function createModel($data)
     {
-        return new \dbsparkle-team\unispot\models\Country($data);
+        return new \dbsparkleTeam\unispot\models\Country($data);
     }
 
     public function getCallingCodes($filter = true)

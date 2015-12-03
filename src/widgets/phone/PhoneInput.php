@@ -1,20 +1,20 @@
 <?php
 
-namespace dbsparkle-team\unispot\widgets\phone;
+namespace dbsparkleTeam\unispot\widgets\phone;
 
-use dbsparkle-team\unispot\exceptions\Exception;
+use dbsparkleTeam\unispot\exceptions\Exception;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\helpers\Json;
-use dbsparkle-team\unispot\widgets\country\DropDown;
+use dbsparkleTeam\unispot\widgets\country\DropDown;
 use yii\widgets\InputWidget;
 use Yii;
 use yii\widgets\MaskedInput;
 use yii\bootstrap\ButtonDropdown;
-use dbsparkle-team\unispot\loaders\Country;
-use dbsparkle-team\unispot\assets\FlagIconAsset;
-use dbsparkle-team\unispot\components\FlagIcon;
+use dbsparkleTeam\unispot\loaders\Country;
+use dbsparkleTeam\unispot\assets\FlagIconAsset;
+use dbsparkleTeam\unispot\components\FlagIcon;
 
 /*
     Examples:

@@ -6,7 +6,7 @@
  * @version 1.4.0
  */
 
-namespace dbsparkle-team\unispot\assets;
+namespace dbsparkleTeam\unispot\assets;
 
 use yii\web\AssetBundle;
 

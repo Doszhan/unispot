@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @var $widget dbsparkle-team\unispot\widgets\phone\PhoneInput
+ * @var $widget dbsparkleTeam\unispot\widgets\phone\PhoneInput
  */
 use yii\bootstrap\ButtonDropdown;
 use yii\helpers\ArrayHelper;

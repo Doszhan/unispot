@@ -1,5 +1,5 @@
 {
-  "name": "dbsparkle-team/unispot",
+  "name": "dbsparkleTeam/unispot",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
@@ -23,7 +23,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "dbsparkle-team\\unispot\\": "src"
+      "dbsparkleTeam\\unispot\\": "src"
     }
   },
   "require": {
@@ -36,7 +36,7 @@
     "geoip2/geoip2": "dev-master"
   },
   "extra": {
-    "bootstrap": "dbsparkle-team\\unispot\\Bootstrap",
+    "bootstrap": "dbsparkleTeam\\unispot\\Bootstrap",
     "asset-installer-paths": {
       "npm-asset-library": "vendor/npm",
       "bower-asset-library": "vendor/bower"

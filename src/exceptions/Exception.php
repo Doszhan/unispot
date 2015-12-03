@@ -1,6 +1,6 @@
 <?php
 
-namespace dbsparkle-team\unispot\exceptions;
+namespace dbsparkleTeam\unispot\exceptions;
 
 class Exception extends \Exception
 {
