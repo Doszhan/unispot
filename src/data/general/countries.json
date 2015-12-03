@@ -1,0 +1,8865 @@
+{
+  "AW": {
+    "name": {
+      "english": {
+        "common": "Aruba",
+        "official": "Aruba"
+      },
+      "native": {
+        "nld": {
+          "official": "Aruba",
+          "common": "Aruba"
+        },
+        "pap": {
+          "official": "Aruba",
+          "common": "Aruba"
+        }
+      }
+    },
+    "tld": [".aw"],
+    "countryCode": {
+      "cca2": "AW",
+      "isoAlpha3": "ABW",
+      "isoNumeric": "533"
+    },
+    "currency": {
+      "name": "Aruban Florin",
+      "code": "AWG",
+      "symbol": "AWG"
+    },
+    "callingCode": ["297"],
+    "capital": "Oranjestad",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["nld", "pap"]
+  },
+  "AF": {
+    "name": {
+      "english": {
+        "common": "Afghanistan",
+        "official": "Islamic Republic of Afghanistan"
+      },
+      "native": {
+        "prs": {
+          "official": "جمهوری اسلامی افغانستان",
+          "common": "افغانستان"
+        },
+        "pus": {
+          "official": "د افغانستان اسلامي جمهوریت",
+          "common": "افغانستان"
+        },
+        "tuk": {
+          "official": "Owganystan Yslam Respublikasy",
+          "common": "Owganystan"
+        }
+      }
+    },
+    "tld": [".af"],
+    "countryCode": {
+      "cca2": "AF",
+      "isoAlpha3": "AFG",
+      "isoNumeric": "004"
+    },
+    "currency": {
+      "name": "Afghan Afghani",
+      "code": "AFN",
+      "symbol": "AFN"
+    },
+    "callingCode": ["93"],
+    "capital": "Kabul",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["prs", "pus", "tuk"]
+  },
+  "AO": {
+    "name": {
+      "english": {
+        "common": "Angola",
+        "official": "Republic of Angola"
+      },
+      "native": {
+        "por": {
+          "official": "República de Angola",
+          "common": "Angola"
+        }
+      }
+    },
+    "tld": [".ao"],
+    "countryCode": {
+      "cca2": "AO",
+      "isoAlpha3": "AGO",
+      "isoNumeric": "024"
+    },
+    "currency": {
+      "name": "Angolan Kwanza",
+      "code": "AOA",
+      "symbol": "AOA"
+    },
+    "callingCode": ["244"],
+    "capital": "Luanda",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["por"]
+  },
+  "AI": {
+    "name": {
+      "english": {
+        "common": "Anguilla",
+        "official": "Anguilla"
+      },
+      "native": {
+        "eng": {
+          "official": "Anguilla",
+          "common": "Anguilla"
+        }
+      }
+    },
+    "tld": [".ai"],
+    "countryCode": {
+      "cca2": "AI",
+      "isoAlpha3": "AIA",
+      "isoNumeric": "660"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1264"],
+    "capital": "The Valley",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "AX": {
+    "name": {
+      "english": {
+        "common": "Åland Islands",
+        "official": "Åland Islands"
+      },
+      "native": {
+        "swe": {
+          "official": "Landskapet Åland",
+          "common": "Åland"
+        }
+      }
+    },
+    "tld": [".ax"],
+    "countryCode": {
+      "cca2": "AX",
+      "isoAlpha3": "ALA",
+      "isoNumeric": "248"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["358"],
+    "capital": "Mariehamn",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["swe"]
+  },
+  "AL": {
+    "name": {
+      "english": {
+        "common": "Albania",
+        "official": "Republic of Albania"
+      },
+      "native": {
+        "sqi": {
+          "official": "Republika e Shqipërisë",
+          "common": "Shqipëria"
+        }
+      }
+    },
+    "tld": [".al"],
+    "countryCode": {
+      "cca2": "AL",
+      "isoAlpha3": "ALB",
+      "isoNumeric": "008"
+    },
+    "currency": {
+      "name": "Albanian Lek",
+      "code": "ALL",
+      "symbol": "ALL"
+    },
+    "callingCode": ["355"],
+    "capital": "Tirana",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["sqi"]
+  },
+  "AD": {
+    "name": {
+      "english": {
+        "common": "Andorra",
+        "official": "Principality of Andorra"
+      },
+      "native": {
+        "cat": {
+          "official": "Principat d'Andorra",
+          "common": "Andorra"
+        }
+      }
+    },
+    "tld": [".ad"],
+    "countryCode": {
+      "cca2": "AD",
+      "isoAlpha3": "AND",
+      "isoNumeric": "020"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["376"],
+    "capital": "Andorra la Vella",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["cat"]
+  },
+  "AE": {
+    "name": {
+      "english": {
+        "common": "United Arab Emirates",
+        "official": "United Arab Emirates"
+      },
+      "native": {
+        "ara": {
+          "official": "الإمارات العربية المتحدة",
+          "common": "دولة الإمارات العربية المتحدة"
+        }
+      }
+    },
+    "tld": [".ae", "امارات."],
+    "countryCode": {
+      "cca2": "AE",
+      "isoAlpha3": "ARE",
+      "isoNumeric": "784"
+    },
+    "currency": {
+      "name": "United Arab Emirates Dirham",
+      "code": "AED",
+      "symbol": "AED"
+    },
+    "callingCode": ["971"],
+    "capital": "Abu Dhabi",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "AR": {
+    "name": {
+      "english": {
+        "common": "Argentina",
+        "official": "Argentine Republic"
+      },
+      "native": {
+        "grn": {
+          "official": "Argentine Republic",
+          "common": "Argentina"
+        },
+        "spa": {
+          "official": "República Argentina",
+          "common": "Argentina"
+        }
+      }
+    },
+    "tld": [".ar"],
+    "countryCode": {
+      "cca2": "AR",
+      "isoAlpha3": "ARG",
+      "isoNumeric": "032"
+    },
+    "currency": {
+      "name": "Argentine Peso",
+      "code": "ARS",
+      "symbol": "ARS"
+    },
+    "callingCode": ["54"],
+    "capital": "Buenos Aires",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["grn", "spa"]
+  },
+  "AM": {
+    "name": {
+      "english": {
+        "common": "Armenia",
+        "official": "Republic of Armenia"
+      },
+      "native": {
+        "hye": {
+          "official": "Հայաստանի Հանրապետություն",
+          "common": "Հայաստան"
+        },
+        "rus": {
+          "official": "Республика Армения",
+          "common": "Армения"
+        }
+      }
+    },
+    "tld": [".am"],
+    "countryCode": {
+      "cca2": "AM",
+      "isoAlpha3": "ARM",
+      "isoNumeric": "051"
+    },
+    "currency": {
+      "name": "Armenian Dram",
+      "code": "AMD",
+      "symbol": "AMD"
+    },
+    "callingCode": ["374"],
+    "capital": "Yerevan",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["hye", "rus"]
+  },
+  "AS": {
+    "name": {
+      "english": {
+        "common": "American Samoa",
+        "official": "American Samoa"
+      },
+      "native": {
+        "eng": {
+          "official": "American Samoa",
+          "common": "American Samoa"
+        },
+        "smo": {
+          "official": "Sāmoa Amelika",
+          "common": "Sāmoa Amelika"
+        }
+      }
+    },
+    "tld": [".as"],
+    "countryCode": {
+      "cca2": "AS",
+      "isoAlpha3": "ASM",
+      "isoNumeric": "016"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1684"],
+    "capital": "Pago Pago",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "smo"]
+  },
+  "AQ": {
+    "name": {
+      "english": {
+        "common": "Antarctica",
+        "official": "Antarctica"
+      },
+      "native": []
+    },
+    "tld": [".aq"],
+    "countryCode": {
+      "cca2": "AQ",
+      "isoAlpha3": "ATA",
+      "isoNumeric": "010"
+    },
+    "currency": {
+      "name": "",
+      "code": false,
+      "symbol": ""
+    },
+    "callingCode": [],
+    "capital": "",
+    "continent": {
+      "name": "",
+      "code": "AN"
+    },
+    "languages": []
+  },
+  "TF": {
+    "name": {
+      "english": {
+        "common": "French Southern and Antarctic Lands",
+        "official": "Territory of the French Southern and Antarctic Lands"
+      },
+      "native": {
+        "fra": {
+          "official": "Territoire du Sud françaises et des terres de l'Antarctique",
+          "common": "Territoire des Terres australes et antarctiques françaises"
+        }
+      }
+    },
+    "tld": [".tf"],
+    "countryCode": {
+      "cca2": "TF",
+      "isoAlpha3": "ATF",
+      "isoNumeric": "260"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": [],
+    "capital": "Port-aux-Français",
+    "continent": {
+      "name": "",
+      "code": "AN"
+    },
+    "languages": ["fra"]
+  },
+  "AG": {
+    "name": {
+      "english": {
+        "common": "Antigua and Barbuda",
+        "official": "Antigua and Barbuda"
+      },
+      "native": {
+        "eng": {
+          "official": "Antigua and Barbuda",
+          "common": "Antigua and Barbuda"
+        }
+      }
+    },
+    "tld": [".ag"],
+    "countryCode": {
+      "cca2": "AG",
+      "isoAlpha3": "ATG",
+      "isoNumeric": "028"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1268"],
+    "capital": "Saint John's",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "AU": {
+    "name": {
+      "english": {
+        "common": "Australia",
+        "official": "Commonwealth of Australia"
+      },
+      "native": {
+        "eng": {
+          "official": "Commonwealth of Australia",
+          "common": "Australia"
+        }
+      }
+    },
+    "tld": [".au"],
+    "countryCode": {
+      "cca2": "AU",
+      "isoAlpha3": "AUS",
+      "isoNumeric": "036"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["61"],
+    "capital": "Canberra",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng"]
+  },
+  "AT": {
+    "name": {
+      "english": {
+        "common": "Austria",
+        "official": "Republic of Austria"
+      },
+      "native": {
+        "bar": {
+          "official": "Republik Österreich",
+          "common": "Österreich"
+        }
+      }
+    },
+    "tld": [".at"],
+    "countryCode": {
+      "cca2": "AT",
+      "isoAlpha3": "AUT",
+      "isoNumeric": "040"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["43"],
+    "capital": "Vienna",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["bar"]
+  },
+  "AZ": {
+    "name": {
+      "english": {
+        "common": "Azerbaijan",
+        "official": "Republic of Azerbaijan"
+      },
+      "native": {
+        "aze": {
+          "official": "Azərbaycan Respublikası",
+          "common": "Azərbaycan"
+        },
+        "rus": {
+          "official": "Азербайджанская Республика",
+          "common": "Азербайджан"
+        }
+      }
+    },
+    "tld": [".az"],
+    "countryCode": {
+      "cca2": "AZ",
+      "isoAlpha3": "AZE",
+      "isoNumeric": "031"
+    },
+    "currency": {
+      "name": "Azerbaijani Manat",
+      "code": "AZN",
+      "symbol": "AZN"
+    },
+    "callingCode": ["994"],
+    "capital": "Baku",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["aze", "rus"]
+  },
+  "BI": {
+    "name": {
+      "english": {
+        "common": "Burundi",
+        "official": "Republic of Burundi"
+      },
+      "native": {
+        "fra": {
+          "official": "République du Burundi",
+          "common": "Burundi"
+        },
+        "run": {
+          "official": "Republika y'Uburundi ",
+          "common": "Uburundi"
+        }
+      }
+    },
+    "tld": [".bi"],
+    "countryCode": {
+      "cca2": "BI",
+      "isoAlpha3": "BDI",
+      "isoNumeric": "108"
+    },
+    "currency": {
+      "name": "Burundian Franc",
+      "code": "BIF",
+      "symbol": "BIF"
+    },
+    "callingCode": ["257"],
+    "capital": "Bujumbura",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra", "run"]
+  },
+  "BE": {
+    "name": {
+      "english": {
+        "common": "Belgium",
+        "official": "Kingdom of Belgium"
+      },
+      "native": {
+        "deu": {
+          "official": "Königreich Belgien",
+          "common": "Belgien"
+        },
+        "fra": {
+          "official": "Royaume de Belgique",
+          "common": "Belgique"
+        },
+        "nld": {
+          "official": "Koninkrijk België",
+          "common": "België"
+        }
+      }
+    },
+    "tld": [".be"],
+    "countryCode": {
+      "cca2": "BE",
+      "isoAlpha3": "BEL",
+      "isoNumeric": "056"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["32"],
+    "capital": "Brussels",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["deu", "fra", "nld"]
+  },
+  "BJ": {
+    "name": {
+      "english": {
+        "common": "Benin",
+        "official": "Republic of Benin"
+      },
+      "native": {
+        "fra": {
+          "official": "République du Bénin",
+          "common": "Bénin"
+        }
+      }
+    },
+    "tld": [".bj"],
+    "countryCode": {
+      "cca2": "BJ",
+      "isoAlpha3": "BEN",
+      "isoNumeric": "204"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["229"],
+    "capital": "Porto-Novo",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "BF": {
+    "name": {
+      "english": {
+        "common": "Burkina Faso",
+        "official": "Burkina Faso"
+      },
+      "native": {
+        "fra": {
+          "official": "Burkina Faso",
+          "common": "Burkina Faso"
+        }
+      }
+    },
+    "tld": [".bf"],
+    "countryCode": {
+      "cca2": "BF",
+      "isoAlpha3": "BFA",
+      "isoNumeric": "854"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["226"],
+    "capital": "Ouagadougou",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "BD": {
+    "name": {
+      "english": {
+        "common": "Bangladesh",
+        "official": "People's Republic of Bangladesh"
+      },
+      "native": {
+        "ben": {
+          "official": "বাংলাদেশ গণপ্রজাতন্ত্রী",
+          "common": "বাংলাদেশ"
+        }
+      }
+    },
+    "tld": [".bd"],
+    "countryCode": {
+      "cca2": "BD",
+      "isoAlpha3": "BGD",
+      "isoNumeric": "050"
+    },
+    "currency": {
+      "name": "Bangladeshi Taka",
+      "code": "BDT",
+      "symbol": "BDT"
+    },
+    "callingCode": ["880"],
+    "capital": "Dhaka",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ben"]
+  },
+  "BG": {
+    "name": {
+      "english": {
+        "common": "Bulgaria",
+        "official": "Republic of Bulgaria"
+      },
+      "native": {
+        "bul": {
+          "official": "Република България",
+          "common": "България"
+        }
+      }
+    },
+    "tld": [".bg"],
+    "countryCode": {
+      "cca2": "BG",
+      "isoAlpha3": "BGR",
+      "isoNumeric": "100"
+    },
+    "currency": {
+      "name": "Bulgarian Lev",
+      "code": "BGN",
+      "symbol": "BGN"
+    },
+    "callingCode": ["359"],
+    "capital": "Sofia",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["bul"]
+  },
+  "BH": {
+    "name": {
+      "english": {
+        "common": "Bahrain",
+        "official": "Kingdom of Bahrain"
+      },
+      "native": {
+        "ara": {
+          "official": "مملكة البحرين",
+          "common": "‏البحرين"
+        }
+      }
+    },
+    "tld": [".bh"],
+    "countryCode": {
+      "cca2": "BH",
+      "isoAlpha3": "BHR",
+      "isoNumeric": "048"
+    },
+    "currency": {
+      "name": "Bahraini Dinar",
+      "code": "BHD",
+      "symbol": "BHD"
+    },
+    "callingCode": ["973"],
+    "capital": "Manama",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "BS": {
+    "name": {
+      "english": {
+        "common": "Bahamas",
+        "official": "Commonwealth of the Bahamas"
+      },
+      "native": {
+        "eng": {
+          "official": "Commonwealth of the Bahamas",
+          "common": "Bahamas"
+        }
+      }
+    },
+    "tld": [".bs"],
+    "countryCode": {
+      "cca2": "BS",
+      "isoAlpha3": "BHS",
+      "isoNumeric": "044"
+    },
+    "currency": {
+      "name": "Bahamian Dollar",
+      "code": "BSD",
+      "symbol": "BSD"
+    },
+    "callingCode": ["1242"],
+    "capital": "Nassau",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "BA": {
+    "name": {
+      "english": {
+        "common": "Bosnia and Herzegovina",
+        "official": "Bosnia and Herzegovina"
+      },
+      "native": {
+        "bos": {
+          "official": "Bosna i Hercegovina",
+          "common": "Bosna i Hercegovina"
+        },
+        "hrv": {
+          "official": "Bosna i Hercegovina",
+          "common": "Bosna i Hercegovina"
+        },
+        "srp": {
+          "official": "Боснa и Херцеговина",
+          "common": "Боснa и Херцеговина"
+        }
+      }
+    },
+    "tld": [".ba"],
+    "countryCode": {
+      "cca2": "BA",
+      "isoAlpha3": "BIH",
+      "isoNumeric": "070"
+    },
+    "currency": {
+      "name": "Bosnia-Herzegovina Convertible Mark",
+      "code": "BAM",
+      "symbol": "BAM"
+    },
+    "callingCode": ["387"],
+    "capital": "Sarajevo",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["bos", "hrv", "srp"]
+  },
+  "BL": {
+    "name": {
+      "english": {
+        "common": "Saint Barthélemy",
+        "official": "Collectivity of Saint BarthélemySaint Barthélemy"
+      },
+      "native": {
+        "fra": {
+          "official": "Collectivité de Saint Barthélemy BarthélemySaint",
+          "common": "Saint-Barthélemy"
+        }
+      }
+    },
+    "tld": [".bl"],
+    "countryCode": {
+      "cca2": "BL",
+      "isoAlpha3": "BLM",
+      "isoNumeric": "652"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["590"],
+    "capital": "Gustavia",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["fra"]
+  },
+  "BY": {
+    "name": {
+      "english": {
+        "common": "Belarus",
+        "official": "Republic of Belarus"
+      },
+      "native": {
+        "bel": {
+          "official": "Рэспубліка Беларусь",
+          "common": "Белару́сь"
+        },
+        "rus": {
+          "official": "Республика Беларусь",
+          "common": "Белоруссия"
+        }
+      }
+    },
+    "tld": [".by"],
+    "countryCode": {
+      "cca2": "BY",
+      "isoAlpha3": "BLR",
+      "isoNumeric": "112"
+    },
+    "currency": {
+      "name": "Belarusian Ruble",
+      "code": "BYR",
+      "symbol": "BYR"
+    },
+    "callingCode": ["375"],
+    "capital": "Minsk",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["bel", "rus"]
+  },
+  "BZ": {
+    "name": {
+      "english": {
+        "common": "Belize",
+        "official": "Belize"
+      },
+      "native": {
+        "bjz": {
+          "official": "Belize",
+          "common": "Belize"
+        },
+        "eng": {
+          "official": "Belize",
+          "common": "Belize"
+        },
+        "spa": {
+          "official": "Belice",
+          "common": "Belice"
+        }
+      }
+    },
+    "tld": [".bz"],
+    "countryCode": {
+      "cca2": "BZ",
+      "isoAlpha3": "BLZ",
+      "isoNumeric": "084"
+    },
+    "currency": {
+      "name": "Belize Dollar",
+      "code": "BZD",
+      "symbol": "BZD"
+    },
+    "callingCode": ["501"],
+    "capital": "Belmopan",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["bjz", "eng", "spa"]
+  },
+  "BM": {
+    "name": {
+      "english": {
+        "common": "Bermuda",
+        "official": "Bermuda"
+      },
+      "native": {
+        "eng": {
+          "official": "Bermuda",
+          "common": "Bermuda"
+        }
+      }
+    },
+    "tld": [".bm"],
+    "countryCode": {
+      "cca2": "BM",
+      "isoAlpha3": "BMU",
+      "isoNumeric": "060"
+    },
+    "currency": {
+      "name": "Bermudan Dollar",
+      "code": "BMD",
+      "symbol": "BMD"
+    },
+    "callingCode": ["1441"],
+    "capital": "Hamilton",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "BO": {
+    "name": {
+      "english": {
+        "common": "Bolivia",
+        "official": "Plurinational State of Bolivia"
+      },
+      "native": {
+        "aym": {
+          "official": "Wuliwya Suyu",
+          "common": "Wuliwya"
+        },
+        "grn": {
+          "official": "Tetã Volívia",
+          "common": "Volívia"
+        },
+        "que": {
+          "official": "Buliwya Mamallaqta",
+          "common": "Buliwya"
+        },
+        "spa": {
+          "official": "Estado Plurinacional de Bolivia",
+          "common": "Bolivia"
+        }
+      }
+    },
+    "tld": [".bo"],
+    "countryCode": {
+      "cca2": "BO",
+      "isoAlpha3": "BOL",
+      "isoNumeric": "068"
+    },
+    "currency": {
+      "name": "Bolivian Boliviano",
+      "code": "BOB",
+      "symbol": "BOB"
+    },
+    "callingCode": ["591"],
+    "capital": "Sucre",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["aym", "grn", "que", "spa"]
+  },
+  "BR": {
+    "name": {
+      "english": {
+        "common": "Brazil",
+        "official": "Federative Republic of Brazil"
+      },
+      "native": {
+        "por": {
+          "official": "República Federativa do Brasil",
+          "common": "Brasil"
+        }
+      }
+    },
+    "tld": [".br"],
+    "countryCode": {
+      "cca2": "BR",
+      "isoAlpha3": "BRA",
+      "isoNumeric": "076"
+    },
+    "currency": {
+      "name": "Brazilian Real",
+      "code": "BRL",
+      "symbol": "R$"
+    },
+    "callingCode": ["55"],
+    "capital": "Brasília",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["por"]
+  },
+  "BB": {
+    "name": {
+      "english": {
+        "common": "Barbados",
+        "official": "Barbados"
+      },
+      "native": {
+        "eng": {
+          "official": "Barbados",
+          "common": "Barbados"
+        }
+      }
+    },
+    "tld": [".bb"],
+    "countryCode": {
+      "cca2": "BB",
+      "isoAlpha3": "BRB",
+      "isoNumeric": "052"
+    },
+    "currency": {
+      "name": "Barbadian Dollar",
+      "code": "BBD",
+      "symbol": "BBD"
+    },
+    "callingCode": ["1246"],
+    "capital": "Bridgetown",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "BN": {
+    "name": {
+      "english": {
+        "common": "Brunei",
+        "official": "Nation of Brunei, Abode of Peace"
+      },
+      "native": {
+        "msa": {
+          "official": "Nation of Brunei, Abode Damai",
+          "common": "Negara Brunei Darussalam"
+        }
+      }
+    },
+    "tld": [".bn"],
+    "countryCode": {
+      "cca2": "BN",
+      "isoAlpha3": "BRN",
+      "isoNumeric": "096"
+    },
+    "currency": {
+      "name": "Brunei Dollar",
+      "code": "BND",
+      "symbol": "BND"
+    },
+    "callingCode": ["673"],
+    "capital": "Bandar Seri Begawan",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["msa"]
+  },
+  "BT": {
+    "name": {
+      "english": {
+        "common": "Bhutan",
+        "official": "Kingdom of Bhutan"
+      },
+      "native": {
+        "dzo": {
+          "official": "འབྲུག་རྒྱལ་ཁབ་",
+          "common": "འབྲུག་ཡུལ་"
+        }
+      }
+    },
+    "tld": [".bt"],
+    "countryCode": {
+      "cca2": "BT",
+      "isoAlpha3": "BTN",
+      "isoNumeric": "064"
+    },
+    "currency": {
+      "name": "Bhutanese Ngultrum",
+      "code": "BTN",
+      "symbol": "BTN"
+    },
+    "callingCode": ["975"],
+    "capital": "Thimphu",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["dzo"]
+  },
+  "BV": {
+    "name": {
+      "english": {
+        "common": "Bouvet Island",
+        "official": "Bouvet Island"
+      },
+      "native": {
+        "nor": {
+          "official": "Bouvetøya",
+          "common": "Bouvetøya"
+        }
+      }
+    },
+    "tld": [".bv"],
+    "countryCode": {
+      "cca2": "BV",
+      "isoAlpha3": "BVT",
+      "isoNumeric": "074"
+    },
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "symbol": "NOK"
+    },
+    "callingCode": [],
+    "capital": "",
+    "continent": {
+      "name": "",
+      "code": "AN"
+    },
+    "languages": ["nor"]
+  },
+  "BW": {
+    "name": {
+      "english": {
+        "common": "Botswana",
+        "official": "Republic of Botswana"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Botswana",
+          "common": "Botswana"
+        },
+        "tsn": {
+          "official": "Lefatshe la Botswana",
+          "common": "Botswana"
+        }
+      }
+    },
+    "tld": [".bw"],
+    "countryCode": {
+      "cca2": "BW",
+      "isoAlpha3": "BWA",
+      "isoNumeric": "072"
+    },
+    "currency": {
+      "name": "Botswanan Pula",
+      "code": "BWP",
+      "symbol": "BWP"
+    },
+    "callingCode": ["267"],
+    "capital": "Gaborone",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "tsn"]
+  },
+  "CF": {
+    "name": {
+      "english": {
+        "common": "Central African Republic",
+        "official": "Central African Republic"
+      },
+      "native": {
+        "fra": {
+          "official": "République centrafricaine",
+          "common": "République centrafricaine"
+        },
+        "sag": {
+          "official": "Ködörösêse tî Bêafrîka",
+          "common": "Bêafrîka"
+        }
+      }
+    },
+    "tld": [".cf"],
+    "countryCode": {
+      "cca2": "CF",
+      "isoAlpha3": "CAF",
+      "isoNumeric": "140"
+    },
+    "currency": {
+      "name": "Central African CFA Franc",
+      "code": "XAF",
+      "symbol": "FCFA"
+    },
+    "callingCode": ["236"],
+    "capital": "Bangui",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra", "sag"]
+  },
+  "CA": {
+    "name": {
+      "english": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "native": {
+        "eng": {
+          "official": "Canada",
+          "common": "Canada"
+        },
+        "fra": {
+          "official": "Canada",
+          "common": "Canada"
+        }
+      }
+    },
+    "tld": [".ca"],
+    "countryCode": {
+      "cca2": "CA",
+      "isoAlpha3": "CAN",
+      "isoNumeric": "124"
+    },
+    "currency": {
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "symbol": "CA$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Canadian dollars"
+    },
+    "callingCode": ["1"],
+    "capital": "Ottawa",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng", "fra"]
+  },
+  "CC": {
+    "name": {
+      "english": {
+        "common": "Cocos (Keeling) Islands",
+        "official": "Territory of the Cocos (Keeling) Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Territory of the Cocos (Keeling) Islands",
+          "common": "Cocos (Keeling) Islands"
+        }
+      }
+    },
+    "tld": [".cc"],
+    "countryCode": {
+      "cca2": "CC",
+      "isoAlpha3": "CCK",
+      "isoNumeric": "166"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["61"],
+    "capital": "West Island",
+    "continent": {
+      "name": "Oceania",
+      "code": "AS"
+    },
+    "languages": ["eng"]
+  },
+  "CH": {
+    "name": {
+      "english": {
+        "common": "Switzerland",
+        "official": "Swiss Confederation"
+      },
+      "native": {
+        "fra": {
+          "official": "Confédération suisse",
+          "common": "Suisse"
+        },
+        "gsw": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "ita": {
+          "official": "Confederazione Svizzera",
+          "common": "Svizzera"
+        },
+        "roh": {
+          "official": "Confederaziun svizra",
+          "common": "Svizra"
+        }
+      }
+    },
+    "tld": [".ch"],
+    "countryCode": {
+      "cca2": "CH",
+      "isoAlpha3": "CHE",
+      "isoNumeric": "756"
+    },
+    "currency": {
+      "name": "",
+      "code": "CHE",
+      "symbol": ""
+    },
+    "callingCode": ["41"],
+    "capital": "Bern",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["fra", "gsw", "ita", "roh"]
+  },
+  "CL": {
+    "name": {
+      "english": {
+        "common": "Chile",
+        "official": "Republic of Chile"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Chile",
+          "common": "Chile"
+        }
+      }
+    },
+    "tld": [".cl"],
+    "countryCode": {
+      "cca2": "CL",
+      "isoAlpha3": "CHL",
+      "isoNumeric": "152"
+    },
+    "currency": {
+      "name": "",
+      "code": "CLF",
+      "symbol": ""
+    },
+    "callingCode": ["56"],
+    "capital": "Santiago",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["spa"]
+  },
+  "CN": {
+    "name": {
+      "english": {
+        "common": "China",
+        "official": "People's Republic of China"
+      },
+      "native": {
+        "cmn": {
+          "official": "中华人民共和国",
+          "common": "中国"
+        }
+      }
+    },
+    "tld": [".cn", ".中国", ".中國", ".公司", ".网络"],
+    "countryCode": {
+      "cca2": "CN",
+      "isoAlpha3": "CHN",
+      "isoNumeric": "156"
+    },
+    "currency": {
+      "name": "Chinese Yuan",
+      "code": "CNY",
+      "symbol": "CN¥",
+      "symbol_native": "CN¥",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Chinese yuan"
+    },
+    "callingCode": ["86"],
+    "capital": "Beijing",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["cmn"]
+  },
+  "CI": {
+    "name": {
+      "english": {
+        "common": "Ivory Coast",
+        "official": "Republic of Côte d'Ivoire"
+      },
+      "native": {
+        "fra": {
+          "official": "République de Côte d'Ivoire",
+          "common": "Côte d'Ivoire"
+        }
+      }
+    },
+    "tld": [".ci"],
+    "countryCode": {
+      "cca2": "CI",
+      "isoAlpha3": "CIV",
+      "isoNumeric": "384"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["225"],
+    "capital": "Yamoussoukro",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "CM": {
+    "name": {
+      "english": {
+        "common": "Cameroon",
+        "official": "Republic of Cameroon"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Cameroon",
+          "common": "Cameroon"
+        },
+        "fra": {
+          "official": "République du Cameroun",
+          "common": "Cameroun"
+        }
+      }
+    },
+    "tld": [".cm"],
+    "countryCode": {
+      "cca2": "CM",
+      "isoAlpha3": "CMR",
+      "isoNumeric": "120"
+    },
+    "currency": {
+      "name": "Central African CFA Franc",
+      "code": "XAF",
+      "symbol": "FCFA"
+    },
+    "callingCode": ["237"],
+    "capital": "Yaoundé",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "fra"]
+  },
+  "CD": {
+    "name": {
+      "english": {
+        "common": "DR Congo",
+        "official": "Democratic Republic of the Congo"
+      },
+      "native": {
+        "fra": {
+          "official": "République démocratique du Congo",
+          "common": "RD Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo Demokratiki",
+          "common": "Repubilika ya Kongo Demokratiki"
+        },
+        "lin": {
+          "official": "Republiki ya Kongó Demokratiki",
+          "common": "Republiki ya Kongó Demokratiki"
+        },
+        "lua": {
+          "official": "Ditunga dia Kongu wa Mungalaata",
+          "common": "Ditunga dia Kongu wa Mungalaata"
+        },
+        "swa": {
+          "official": "Jamhuri ya Kidemokrasia ya Kongo",
+          "common": "Jamhuri ya Kidemokrasia ya Kongo"
+        }
+      }
+    },
+    "tld": [".cd"],
+    "countryCode": {
+      "cca2": "CD",
+      "isoAlpha3": "COD",
+      "isoNumeric": "180"
+    },
+    "currency": {
+      "name": "Congolese Franc",
+      "code": "CDF",
+      "symbol": "CDF"
+    },
+    "callingCode": ["243"],
+    "capital": "Kinshasa",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra", "kon", "lin", "lua", "swa"]
+  },
+  "CG": {
+    "name": {
+      "english": {
+        "common": "Republic of the Congo",
+        "official": "Republic of the Congo"
+      },
+      "native": {
+        "fra": {
+          "official": "République du Congo",
+          "common": "République du Congo"
+        },
+        "kon": {
+          "official": "Repubilika ya Kongo",
+          "common": "Repubilika ya Kongo"
+        },
+        "lin": {
+          "official": "Republíki ya Kongó",
+          "common": "Republíki ya Kongó"
+        }
+      }
+    },
+    "tld": [".cg"],
+    "countryCode": {
+      "cca2": "CG",
+      "isoAlpha3": "COG",
+      "isoNumeric": "178"
+    },
+    "currency": {
+      "name": "Central African CFA Franc",
+      "code": "XAF",
+      "symbol": "FCFA"
+    },
+    "callingCode": ["242"],
+    "capital": "Brazzaville",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra", "kon", "lin"]
+  },
+  "CK": {
+    "name": {
+      "english": {
+        "common": "Cook Islands",
+        "official": "Cook Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Cook Islands",
+          "common": "Cook Islands"
+        },
+        "rar": {
+          "official": "Kūki 'Āirani",
+          "common": "Kūki 'Āirani"
+        }
+      }
+    },
+    "tld": [".ck"],
+    "countryCode": {
+      "cca2": "CK",
+      "isoAlpha3": "COK",
+      "isoNumeric": "184"
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "NZ$"
+    },
+    "callingCode": ["682"],
+    "capital": "Avarua",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "rar"]
+  },
+  "CO": {
+    "name": {
+      "english": {
+        "common": "Colombia",
+        "official": "Republic of Colombia"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Colombia",
+          "common": "Colombia"
+        }
+      }
+    },
+    "tld": [".co"],
+    "countryCode": {
+      "cca2": "CO",
+      "isoAlpha3": "COL",
+      "isoNumeric": "170"
+    },
+    "currency": {
+      "name": "Colombian Peso",
+      "code": "COP",
+      "symbol": "COP"
+    },
+    "callingCode": ["57"],
+    "capital": "Bogotá",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["spa"]
+  },
+  "KM": {
+    "name": {
+      "english": {
+        "common": "Comoros",
+        "official": "Union of the Comoros"
+      },
+      "native": {
+        "ara": {
+          "official": "الاتحاد القمري",
+          "common": "القمر‎"
+        },
+        "fra": {
+          "official": "Union des Comores",
+          "common": "Comores"
+        },
+        "zdj": {
+          "official": "Udzima wa Komori",
+          "common": "Komori"
+        }
+      }
+    },
+    "tld": [".km"],
+    "countryCode": {
+      "cca2": "KM",
+      "isoAlpha3": "COM",
+      "isoNumeric": "174"
+    },
+    "currency": {
+      "name": "Comorian Franc",
+      "code": "KMF",
+      "symbol": "KMF"
+    },
+    "callingCode": ["269"],
+    "capital": "Moroni",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "fra", "zdj"]
+  },
+  "CV": {
+    "name": {
+      "english": {
+        "common": "Cape Verde",
+        "official": "Republic of Cabo Verde"
+      },
+      "native": {
+        "por": {
+          "official": "República de Cabo Verde",
+          "common": "Cabo Verde"
+        }
+      }
+    },
+    "tld": [".cv"],
+    "countryCode": {
+      "cca2": "CV",
+      "isoAlpha3": "CPV",
+      "isoNumeric": "132"
+    },
+    "currency": {
+      "name": "Cape Verdean Escudo",
+      "code": "CVE",
+      "symbol": "CVE"
+    },
+    "callingCode": ["238"],
+    "capital": "Praia",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["por"]
+  },
+  "CR": {
+    "name": {
+      "english": {
+        "common": "Costa Rica",
+        "official": "Republic of Costa Rica"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Costa Rica",
+          "common": "Costa Rica"
+        }
+      }
+    },
+    "tld": [".cr"],
+    "countryCode": {
+      "cca2": "CR",
+      "isoAlpha3": "CRI",
+      "isoNumeric": "188"
+    },
+    "currency": {
+      "name": "Costa Rican Colón",
+      "code": "CRC",
+      "symbol": "CRC"
+    },
+    "callingCode": ["506"],
+    "capital": "San José",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "CU": {
+    "name": {
+      "english": {
+        "common": "Cuba",
+        "official": "Republic of Cuba"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Cuba",
+          "common": "Cuba"
+        }
+      }
+    },
+    "tld": [".cu"],
+    "countryCode": {
+      "cca2": "CU",
+      "isoAlpha3": "CUB",
+      "isoNumeric": "192"
+    },
+    "currency": {
+      "name": "Cuban Convertible Peso",
+      "code": "CUC",
+      "symbol": "CUC"
+    },
+    "callingCode": ["53"],
+    "capital": "Havana",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "CW": {
+    "name": {
+      "english": {
+        "common": "Curaçao",
+        "official": "Country of Curaçao"
+      },
+      "native": {
+        "eng": {
+          "official": "Country of Curaçao",
+          "common": "Curaçao"
+        },
+        "nld": {
+          "official": "Land Curaçao",
+          "common": "Curaçao"
+        },
+        "pap": {
+          "official": "Pais Kòrsou",
+          "common": "Pais Kòrsou"
+        }
+      }
+    },
+    "tld": [".cw"],
+    "countryCode": {
+      "cca2": "CW",
+      "isoAlpha3": "CUW",
+      "isoNumeric": "531"
+    },
+    "currency": {
+      "name": "Netherlands Antillean Guilder",
+      "code": "ANG",
+      "symbol": "ANG"
+    },
+    "callingCode": ["5999"],
+    "capital": "Willemstad",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng", "nld", "pap"]
+  },
+  "CX": {
+    "name": {
+      "english": {
+        "common": "Christmas Island",
+        "official": "Territory of Christmas Island"
+      },
+      "native": {
+        "eng": {
+          "official": "Territory of Christmas Island",
+          "common": "Christmas Island"
+        }
+      }
+    },
+    "tld": [".cx"],
+    "countryCode": {
+      "cca2": "CX",
+      "isoAlpha3": "CXR",
+      "isoNumeric": "162"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["61"],
+    "capital": "Flying Fish Cove",
+    "continent": {
+      "name": "Oceania",
+      "code": "AS"
+    },
+    "languages": ["eng"]
+  },
+  "KY": {
+    "name": {
+      "english": {
+        "common": "Cayman Islands",
+        "official": "Cayman Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Cayman Islands",
+          "common": "Cayman Islands"
+        }
+      }
+    },
+    "tld": [".ky"],
+    "countryCode": {
+      "cca2": "KY",
+      "isoAlpha3": "CYM",
+      "isoNumeric": "136"
+    },
+    "currency": {
+      "name": "Cayman Islands Dollar",
+      "code": "KYD",
+      "symbol": "KYD"
+    },
+    "callingCode": ["1345"],
+    "capital": "George Town",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "CY": {
+    "name": {
+      "english": {
+        "common": "Cyprus",
+        "official": "Republic of Cyprus"
+      },
+      "native": {
+        "ell": {
+          "official": "Δημοκρατία της Κύπρος",
+          "common": "Κύπρος"
+        },
+        "tur": {
+          "official": "Kıbrıs Cumhuriyeti",
+          "common": "Kıbrıs"
+        }
+      }
+    },
+    "tld": [".cy"],
+    "countryCode": {
+      "cca2": "CY",
+      "isoAlpha3": "CYP",
+      "isoNumeric": "196"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["357"],
+    "capital": "Nicosia",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ell", "tur"]
+  },
+  "CZ": {
+    "name": {
+      "english": {
+        "common": "Czech Republic",
+        "official": "Czech Republic"
+      },
+      "native": {
+        "ces": {
+          "official": "česká republika",
+          "common": "Česká republika"
+        },
+        "slk": {
+          "official": "Česká republika",
+          "common": "Česká republika"
+        }
+      }
+    },
+    "tld": [".cz"],
+    "countryCode": {
+      "cca2": "CZ",
+      "isoAlpha3": "CZE",
+      "isoNumeric": "203"
+    },
+    "currency": {
+      "name": "Czech Republic Koruna",
+      "code": "CZK",
+      "symbol": "CZK"
+    },
+    "callingCode": ["420"],
+    "capital": "Prague",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ces", "slk"]
+  },
+  "DE": {
+    "name": {
+      "english": {
+        "common": "Germany",
+        "official": "Federal Republic of Germany"
+      },
+      "native": {
+        "deu": {
+          "official": "Bundesrepublik Deutschland",
+          "common": "Deutschland"
+        }
+      }
+    },
+    "tld": [".de"],
+    "countryCode": {
+      "cca2": "DE",
+      "isoAlpha3": "DEU",
+      "isoNumeric": "276"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["49"],
+    "capital": "Berlin",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["deu"]
+  },
+  "DJ": {
+    "name": {
+      "english": {
+        "common": "Djibouti",
+        "official": "Republic of Djibouti"
+      },
+      "native": {
+        "ara": {
+          "official": "جمهورية جيبوتي",
+          "common": "جيبوتي‎"
+        },
+        "fra": {
+          "official": "République de Djibouti",
+          "common": "Djibouti"
+        }
+      }
+    },
+    "tld": [".dj"],
+    "countryCode": {
+      "cca2": "DJ",
+      "isoAlpha3": "DJI",
+      "isoNumeric": "262"
+    },
+    "currency": {
+      "name": "Djiboutian Franc",
+      "code": "DJF",
+      "symbol": "DJF"
+    },
+    "callingCode": ["253"],
+    "capital": "Djibouti",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "fra"]
+  },
+  "DM": {
+    "name": {
+      "english": {
+        "common": "Dominica",
+        "official": "Commonwealth of Dominica"
+      },
+      "native": {
+        "eng": {
+          "official": "Commonwealth of Dominica",
+          "common": "Dominica"
+        }
+      }
+    },
+    "tld": [".dm"],
+    "countryCode": {
+      "cca2": "DM",
+      "isoAlpha3": "DMA",
+      "isoNumeric": "212"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1767"],
+    "capital": "Roseau",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "DK": {
+    "name": {
+      "english": {
+        "common": "Denmark",
+        "official": "Kingdom of Denmark"
+      },
+      "native": {
+        "dan": {
+          "official": "Kongeriget Danmark",
+          "common": "Danmark"
+        }
+      }
+    },
+    "tld": [".dk"],
+    "countryCode": {
+      "cca2": "DK",
+      "isoAlpha3": "DNK",
+      "isoNumeric": "208"
+    },
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK",
+      "symbol": "DKK"
+    },
+    "callingCode": ["45"],
+    "capital": "Copenhagen",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["dan"]
+  },
+  "DO": {
+    "name": {
+      "english": {
+        "common": "Dominican Republic",
+        "official": "Dominican Republic"
+      },
+      "native": {
+        "spa": {
+          "official": "República Dominicana",
+          "common": "República Dominicana"
+        }
+      }
+    },
+    "tld": [".do"],
+    "countryCode": {
+      "cca2": "DO",
+      "isoAlpha3": "DOM",
+      "isoNumeric": "214"
+    },
+    "currency": {
+      "name": "Dominican Peso",
+      "code": "DOP",
+      "symbol": "DOP"
+    },
+    "callingCode": ["1809", "1829", "1849"],
+    "capital": "Santo Domingo",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "DZ": {
+    "name": {
+      "english": {
+        "common": "Algeria",
+        "official": "People's Democratic Republic of Algeria"
+      },
+      "native": {
+        "ara": {
+          "official": "الجمهورية الديمقراطية الشعبية الجزائرية",
+          "common": "الجزائر"
+        }
+      }
+    },
+    "tld": [".dz", "الجزائر."],
+    "countryCode": {
+      "cca2": "DZ",
+      "isoAlpha3": "DZA",
+      "isoNumeric": "012"
+    },
+    "currency": {
+      "name": "Algerian Dinar",
+      "code": "DZD",
+      "symbol": "DZD"
+    },
+    "callingCode": ["213"],
+    "capital": "Algiers",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara"]
+  },
+  "EC": {
+    "name": {
+      "english": {
+        "common": "Ecuador",
+        "official": "Republic of Ecuador"
+      },
+      "native": {
+        "spa": {
+          "official": "República del Ecuador",
+          "common": "Ecuador"
+        }
+      }
+    },
+    "tld": [".ec"],
+    "countryCode": {
+      "cca2": "EC",
+      "isoAlpha3": "ECU",
+      "isoNumeric": "218"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["593"],
+    "capital": "Quito",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["spa"]
+  },
+  "EG": {
+    "name": {
+      "english": {
+        "common": "Egypt",
+        "official": "Arab Republic of Egypt"
+      },
+      "native": {
+        "ara": {
+          "official": "جمهورية مصر العربية",
+          "common": "مصر"
+        }
+      }
+    },
+    "tld": [".eg", ".مصر"],
+    "countryCode": {
+      "cca2": "EG",
+      "isoAlpha3": "EGY",
+      "isoNumeric": "818"
+    },
+    "currency": {
+      "name": "Egyptian Pound",
+      "code": "EGP",
+      "symbol": "EGP"
+    },
+    "callingCode": ["20"],
+    "capital": "Cairo",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara"]
+  },
+  "ER": {
+    "name": {
+      "english": {
+        "common": "Eritrea",
+        "official": "State of Eritrea"
+      },
+      "native": {
+        "ara": {
+          "official": "دولة إرتريا",
+          "common": "إرتريا‎"
+        },
+        "eng": {
+          "official": "State of Eritrea",
+          "common": "Eritrea"
+        },
+        "tir": {
+          "official": "ሃገረ ኤርትራ",
+          "common": "ኤርትራ"
+        }
+      }
+    },
+    "tld": [".er"],
+    "countryCode": {
+      "cca2": "ER",
+      "isoAlpha3": "ERI",
+      "isoNumeric": "232"
+    },
+    "currency": {
+      "name": "Eritrean Nakfa",
+      "code": "ERN",
+      "symbol": "ERN"
+    },
+    "callingCode": ["291"],
+    "capital": "Asmara",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "eng", "tir"]
+  },
+  "EH": {
+    "name": {
+      "english": {
+        "common": "Western Sahara",
+        "official": "Sahrawi Arab Democratic Republic"
+      },
+      "native": {
+        "ber": {
+          "official": "Sahrawi Arab Democratic Republic",
+          "common": "Western Sahara"
+        },
+        "mey": {
+          "official": "الجمهورية العربية الصحراوية الديمقراطية",
+          "common": "الصحراء الغربية"
+        },
+        "spa": {
+          "official": "República Árabe Saharaui Democrática",
+          "common": "Sahara Occidental"
+        }
+      }
+    },
+    "tld": [".eh"],
+    "countryCode": {
+      "cca2": "EH",
+      "isoAlpha3": "ESH",
+      "isoNumeric": "732"
+    },
+    "currency": {
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "symbol": "MAD"
+    },
+    "callingCode": ["212"],
+    "capital": "El Aaiún",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ber", "mey", "spa"]
+  },
+  "ES": {
+    "name": {
+      "english": {
+        "common": "Spain",
+        "official": "Kingdom of Spain"
+      },
+      "native": {
+        "cat": {
+          "official": "Regne d'Espanya",
+          "common": "Espanya"
+        },
+        "eus": {
+          "official": "Espainiako Erresuma",
+          "common": "Espainia"
+        },
+        "glg": {
+          "official": "Reino de España",
+          "common": ""
+        },
+        "oci": {
+          "official": "Reialme d'Espanha",
+          "common": "Espanha"
+        },
+        "spa": {
+          "official": "Reino de España",
+          "common": "España"
+        }
+      }
+    },
+    "tld": [".es"],
+    "countryCode": {
+      "cca2": "ES",
+      "isoAlpha3": "ESP",
+      "isoNumeric": "724"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["34"],
+    "capital": "Madrid",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["cat", "eus", "glg", "oci", "spa"]
+  },
+  "EE": {
+    "name": {
+      "english": {
+        "common": "Estonia",
+        "official": "Republic of Estonia"
+      },
+      "native": {
+        "est": {
+          "official": "Eesti Vabariik",
+          "common": "Eesti"
+        }
+      }
+    },
+    "tld": [".ee"],
+    "countryCode": {
+      "cca2": "EE",
+      "isoAlpha3": "EST",
+      "isoNumeric": "233"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["372"],
+    "capital": "Tallinn",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["est"]
+  },
+  "ET": {
+    "name": {
+      "english": {
+        "common": "Ethiopia",
+        "official": "Federal Democratic Republic of Ethiopia"
+      },
+      "native": {
+        "amh": {
+          "official": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+          "common": "ኢትዮጵያ"
+        }
+      }
+    },
+    "tld": [".et"],
+    "countryCode": {
+      "cca2": "ET",
+      "isoAlpha3": "ETH",
+      "isoNumeric": "231"
+    },
+    "currency": {
+      "name": "Ethiopian Birr",
+      "code": "ETB",
+      "symbol": "ETB"
+    },
+    "callingCode": ["251"],
+    "capital": "Addis Ababa",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["amh"]
+  },
+  "FI": {
+    "name": {
+      "english": {
+        "common": "Finland",
+        "official": "Republic of Finland"
+      },
+      "native": {
+        "fin": {
+          "official": "Suomen tasavalta",
+          "common": "Suomi"
+        },
+        "swe": {
+          "official": "Republiken Finland",
+          "common": "Finland"
+        }
+      }
+    },
+    "tld": [".fi"],
+    "countryCode": {
+      "cca2": "FI",
+      "isoAlpha3": "FIN",
+      "isoNumeric": "246"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["358"],
+    "capital": "Helsinki",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["fin", "swe"]
+  },
+  "FJ": {
+    "name": {
+      "english": {
+        "common": "Fiji",
+        "official": "Republic of Fiji"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Fiji",
+          "common": "Fiji"
+        },
+        "fij": {
+          "official": "Matanitu Tugalala o Viti",
+          "common": "Viti"
+        },
+        "hif": {
+          "official": "रिपब्लिक ऑफ फीजी",
+          "common": "फिजी"
+        }
+      }
+    },
+    "tld": [".fj"],
+    "countryCode": {
+      "cca2": "FJ",
+      "isoAlpha3": "FJI",
+      "isoNumeric": "242"
+    },
+    "currency": {
+      "name": "Fijian Dollar",
+      "code": "FJD",
+      "symbol": "FJD"
+    },
+    "callingCode": ["679"],
+    "capital": "Suva",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "fij", "hif"]
+  },
+  "FK": {
+    "name": {
+      "english": {
+        "common": "Falkland Islands",
+        "official": "Falkland Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Falkland Islands",
+          "common": "Falkland Islands"
+        }
+      }
+    },
+    "tld": [".fk"],
+    "countryCode": {
+      "cca2": "FK",
+      "isoAlpha3": "FLK",
+      "isoNumeric": "238"
+    },
+    "currency": {
+      "name": "Falkland Islands Pound",
+      "code": "FKP",
+      "symbol": "FKP"
+    },
+    "callingCode": ["500"],
+    "capital": "Stanley",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["eng"]
+  },
+  "FR": {
+    "name": {
+      "english": {
+        "common": "France",
+        "official": "French Republic"
+      },
+      "native": {
+        "fra": {
+          "official": "République française",
+          "common": "France"
+        }
+      }
+    },
+    "tld": [".fr"],
+    "countryCode": {
+      "cca2": "FR",
+      "isoAlpha3": "FRA",
+      "isoNumeric": "250"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["33"],
+    "capital": "Paris",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["fra"]
+  },
+  "FO": {
+    "name": {
+      "english": {
+        "common": "Faroe Islands",
+        "official": "Faroe Islands"
+      },
+      "native": {
+        "dan": {
+          "official": "Færøerne",
+          "common": "Færøerne"
+        },
+        "fao": {
+          "official": "Føroyar",
+          "common": "Føroyar"
+        }
+      }
+    },
+    "tld": [".fo"],
+    "countryCode": {
+      "cca2": "FO",
+      "isoAlpha3": "FRO",
+      "isoNumeric": "234"
+    },
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK",
+      "symbol": "DKK"
+    },
+    "callingCode": ["298"],
+    "capital": "Tórshavn",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["dan", "fao"]
+  },
+  "FM": {
+    "name": {
+      "english": {
+        "common": "Micronesia",
+        "official": "Federated States of Micronesia"
+      },
+      "native": {
+        "eng": {
+          "official": "Federated States of Micronesia",
+          "common": "Micronesia"
+        }
+      }
+    },
+    "tld": [".fm"],
+    "countryCode": {
+      "cca2": "FM",
+      "isoAlpha3": "FSM",
+      "isoNumeric": "583"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "USD",
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["691"],
+    "capital": "Palikir",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng"]
+  },
+  "GA": {
+    "name": {
+      "english": {
+        "common": "Gabon",
+        "official": "Gabonese Republic"
+      },
+      "native": {
+        "fra": {
+          "official": "République gabonaise",
+          "common": "Gabon"
+        }
+      }
+    },
+    "tld": [".ga"],
+    "countryCode": {
+      "cca2": "GA",
+      "isoAlpha3": "GAB",
+      "isoNumeric": "266"
+    },
+    "currency": {
+      "name": "Central African CFA Franc",
+      "code": "XAF",
+      "symbol": "FCFA"
+    },
+    "callingCode": ["241"],
+    "capital": "Libreville",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "GB": {
+    "name": {
+      "english": {
+        "common": "United Kingdom",
+        "official": "United Kingdom of Great Britain and Northern Ireland"
+      },
+      "native": {
+        "eng": {
+          "official": "United Kingdom of Great Britain and Northern Ireland",
+          "common": "United Kingdom"
+        }
+      }
+    },
+    "tld": [".uk"],
+    "countryCode": {
+      "cca2": "GB",
+      "isoAlpha3": "GBR",
+      "isoNumeric": "826"
+    },
+    "currency": {
+      "name": "British Pound",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "callingCode": ["44"],
+    "capital": "London",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng"]
+  },
+  "GE": {
+    "name": {
+      "english": {
+        "common": "Georgia",
+        "official": "Georgia"
+      },
+      "native": {
+        "kat": {
+          "official": "საქართველო",
+          "common": "საქართველო"
+        }
+      }
+    },
+    "tld": [".ge"],
+    "countryCode": {
+      "cca2": "GE",
+      "isoAlpha3": "GEO",
+      "isoNumeric": "268"
+    },
+    "currency": {
+      "name": "Georgian Lari",
+      "code": "GEL",
+      "symbol": "GEL"
+    },
+    "callingCode": ["995"],
+    "capital": "Tbilisi",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["kat"]
+  },
+  "GG": {
+    "name": {
+      "english": {
+        "common": "Guernsey",
+        "official": "Bailiwick of Guernsey"
+      },
+      "native": {
+        "eng": {
+          "official": "Bailiwick of Guernsey",
+          "common": "Guernsey"
+        },
+        "fra": {
+          "official": "Bailliage de Guernesey",
+          "common": "Guernesey"
+        },
+        "nfr": {
+          "official": "Dgèrnésiais",
+          "common": "Dgèrnésiais"
+        }
+      }
+    },
+    "tld": [".gg"],
+    "countryCode": {
+      "cca2": "GG",
+      "isoAlpha3": "GGY",
+      "isoNumeric": "831"
+    },
+    "currency": {
+      "name": "British Pound",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "callingCode": ["44"],
+    "capital": "St. Peter Port",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng", "fra", "nfr"]
+  },
+  "GH": {
+    "name": {
+      "english": {
+        "common": "Ghana",
+        "official": "Republic of Ghana"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Ghana",
+          "common": "Ghana"
+        }
+      }
+    },
+    "tld": [".gh"],
+    "countryCode": {
+      "cca2": "GH",
+      "isoAlpha3": "GHA",
+      "isoNumeric": "288"
+    },
+    "currency": {
+      "name": "Ghanaian Cedi",
+      "code": "GHS",
+      "symbol": "GHS"
+    },
+    "callingCode": ["233"],
+    "capital": "Accra",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "GI": {
+    "name": {
+      "english": {
+        "common": "Gibraltar",
+        "official": "Gibraltar"
+      },
+      "native": {
+        "eng": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        }
+      }
+    },
+    "tld": [".gi"],
+    "countryCode": {
+      "cca2": "GI",
+      "isoAlpha3": "GIB",
+      "isoNumeric": "292"
+    },
+    "currency": {
+      "name": "Gibraltar Pound",
+      "code": "GIP",
+      "symbol": "GIP"
+    },
+    "callingCode": ["350"],
+    "capital": "Gibraltar",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng"]
+  },
+  "GN": {
+    "name": {
+      "english": {
+        "common": "Guinea",
+        "official": "Republic of Guinea"
+      },
+      "native": {
+        "fra": {
+          "official": "République de Guinée",
+          "common": "Guinée"
+        }
+      }
+    },
+    "tld": [".gn"],
+    "countryCode": {
+      "cca2": "GN",
+      "isoAlpha3": "GIN",
+      "isoNumeric": "324"
+    },
+    "currency": {
+      "name": "Guinean Franc",
+      "code": "GNF",
+      "symbol": "GNF"
+    },
+    "callingCode": ["224"],
+    "capital": "Conakry",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "GP": {
+    "name": {
+      "english": {
+        "common": "Guadeloupe",
+        "official": "Guadeloupe"
+      },
+      "native": {
+        "fra": {
+          "official": "Guadeloupe",
+          "common": "Guadeloupe"
+        }
+      }
+    },
+    "tld": [".gp"],
+    "countryCode": {
+      "cca2": "GP",
+      "isoAlpha3": "GLP",
+      "isoNumeric": "312"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["590"],
+    "capital": "Basse-Terre",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["fra"]
+  },
+  "GM": {
+    "name": {
+      "english": {
+        "common": "Gambia",
+        "official": "Republic of the Gambia"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of the Gambia",
+          "common": "Gambia"
+        }
+      }
+    },
+    "tld": [".gm"],
+    "countryCode": {
+      "cca2": "GM",
+      "isoAlpha3": "GMB",
+      "isoNumeric": "270"
+    },
+    "currency": {
+      "name": "Gambian Dalasi",
+      "code": "GMD",
+      "symbol": "GMD"
+    },
+    "callingCode": ["220"],
+    "capital": "Banjul",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "GW": {
+    "name": {
+      "english": {
+        "common": "Guinea-Bissau",
+        "official": "Republic of Guinea-Bissau"
+      },
+      "native": {
+        "por": {
+          "official": "República da Guiné-Bissau",
+          "common": "Guiné-Bissau"
+        }
+      }
+    },
+    "tld": [".gw"],
+    "countryCode": {
+      "cca2": "GW",
+      "isoAlpha3": "GNB",
+      "isoNumeric": "624"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["245"],
+    "capital": "Bissau",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["por"]
+  },
+  "GQ": {
+    "name": {
+      "english": {
+        "common": "Equatorial Guinea",
+        "official": "Republic of Equatorial Guinea"
+      },
+      "native": {
+        "fra": {
+          "official": "République de la Guinée Équatoriale",
+          "common": "Guinée équatoriale"
+        },
+        "por": {
+          "official": "República da Guiné Equatorial",
+          "common": "Guiné Equatorial"
+        },
+        "spa": {
+          "official": "República de Guinea Ecuatorial",
+          "common": "Guinea Ecuatorial"
+        }
+      }
+    },
+    "tld": [".gq"],
+    "countryCode": {
+      "cca2": "GQ",
+      "isoAlpha3": "GNQ",
+      "isoNumeric": "226"
+    },
+    "currency": {
+      "name": "Central African CFA Franc",
+      "code": "XAF",
+      "symbol": "FCFA"
+    },
+    "callingCode": ["240"],
+    "capital": "Malabo",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra", "por", "spa"]
+  },
+  "GR": {
+    "name": {
+      "english": {
+        "common": "Greece",
+        "official": "Hellenic Republic"
+      },
+      "native": {
+        "ell": {
+          "official": "Ελληνική Δημοκρατία",
+          "common": "Ελλάδα"
+        }
+      }
+    },
+    "tld": [".gr"],
+    "countryCode": {
+      "cca2": "GR",
+      "isoAlpha3": "GRC",
+      "isoNumeric": "300"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["30"],
+    "capital": "Athens",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ell"]
+  },
+  "GD": {
+    "name": {
+      "english": {
+        "common": "Grenada",
+        "official": "Grenada"
+      },
+      "native": {
+        "eng": {
+          "official": "Grenada",
+          "common": "Grenada"
+        }
+      }
+    },
+    "tld": [".gd"],
+    "countryCode": {
+      "cca2": "GD",
+      "isoAlpha3": "GRD",
+      "isoNumeric": "308"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1473"],
+    "capital": "St. George's",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "GL": {
+    "name": {
+      "english": {
+        "common": "Greenland",
+        "official": "Greenland"
+      },
+      "native": {
+        "kal": {
+          "official": "Kalaallit Nunaat",
+          "common": "Kalaallit Nunaat"
+        }
+      }
+    },
+    "tld": [".gl"],
+    "countryCode": {
+      "cca2": "GL",
+      "isoAlpha3": "GRL",
+      "isoNumeric": "304"
+    },
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK",
+      "symbol": "DKK"
+    },
+    "callingCode": ["299"],
+    "capital": "Nuuk",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["kal"]
+  },
+  "GT": {
+    "name": {
+      "english": {
+        "common": "Guatemala",
+        "official": "Republic of Guatemala"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Guatemala",
+          "common": "Guatemala"
+        }
+      }
+    },
+    "tld": [".gt"],
+    "countryCode": {
+      "cca2": "GT",
+      "isoAlpha3": "GTM",
+      "isoNumeric": "320"
+    },
+    "currency": {
+      "name": "Guatemalan Quetzal",
+      "code": "GTQ",
+      "symbol": "GTQ"
+    },
+    "callingCode": ["502"],
+    "capital": "Guatemala City",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "GF": {
+    "name": {
+      "english": {
+        "common": "French Guiana",
+        "official": "Guiana"
+      },
+      "native": {
+        "fra": {
+          "official": "Guyanes",
+          "common": "Guyane française"
+        }
+      }
+    },
+    "tld": [".gf"],
+    "countryCode": {
+      "cca2": "GF",
+      "isoAlpha3": "GUF",
+      "isoNumeric": "254"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["594"],
+    "capital": "Cayenne",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["fra"]
+  },
+  "GU": {
+    "name": {
+      "english": {
+        "common": "Guam",
+        "official": "Guam"
+      },
+      "native": {
+        "cha": {
+          "official": "Guåhån",
+          "common": "Guåhån"
+        },
+        "eng": {
+          "official": "Guam",
+          "common": "Guam"
+        },
+        "spa": {
+          "official": "Guam",
+          "common": "Guam"
+        }
+      }
+    },
+    "tld": [".gu"],
+    "countryCode": {
+      "cca2": "GU",
+      "isoAlpha3": "GUM",
+      "isoNumeric": "316"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1671"],
+    "capital": "Hagåtña",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["cha", "eng", "spa"]
+  },
+  "GY": {
+    "name": {
+      "english": {
+        "common": "Guyana",
+        "official": "Co-operative Republic of Guyana"
+      },
+      "native": {
+        "eng": {
+          "official": "Co-operative Republic of Guyana",
+          "common": "Guyana"
+        }
+      }
+    },
+    "tld": [".gy"],
+    "countryCode": {
+      "cca2": "GY",
+      "isoAlpha3": "GUY",
+      "isoNumeric": "328"
+    },
+    "currency": {
+      "name": "Guyanaese Dollar",
+      "code": "GYD",
+      "symbol": "GYD"
+    },
+    "callingCode": ["592"],
+    "capital": "Georgetown",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["eng"]
+  },
+  "HK": {
+    "name": {
+      "english": {
+        "common": "Hong Kong",
+        "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+      },
+      "native": {
+        "eng": {
+          "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+          "common": "Hong Kong"
+        },
+        "zho": {
+          "official": "香港中国特别行政区的人民共和国",
+          "common": "香港"
+        }
+      }
+    },
+    "tld": [".hk", ".香港"],
+    "countryCode": {
+      "cca2": "HK",
+      "isoAlpha3": "HKG",
+      "isoNumeric": "344"
+    },
+    "currency": {
+      "name": "Hong Kong Dollar",
+      "code": "HKD",
+      "symbol": "HK$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Hong Kong dollars"
+    },
+    "callingCode": ["852"],
+    "capital": "City of Victoria",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["eng", "zho"]
+  },
+  "HM": {
+    "name": {
+      "english": {
+        "common": "Heard Island and McDonald Islands",
+        "official": "Heard Island and McDonald Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Heard Island and McDonald Islands",
+          "common": "Heard Island and McDonald Islands"
+        }
+      }
+    },
+    "tld": [".hm", ".aq"],
+    "countryCode": {
+      "cca2": "HM",
+      "isoAlpha3": "HMD",
+      "isoNumeric": "334"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": [],
+    "capital": "",
+    "continent": {
+      "name": "",
+      "code": "AN"
+    },
+    "languages": ["eng"]
+  },
+  "HN": {
+    "name": {
+      "english": {
+        "common": "Honduras",
+        "official": "Republic of Honduras"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Honduras",
+          "common": "Honduras"
+        }
+      }
+    },
+    "tld": [".hn"],
+    "countryCode": {
+      "cca2": "HN",
+      "isoAlpha3": "HND",
+      "isoNumeric": "340"
+    },
+    "currency": {
+      "name": "Honduran Lempira",
+      "code": "HNL",
+      "symbol": "HNL"
+    },
+    "callingCode": ["504"],
+    "capital": "Tegucigalpa",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "HR": {
+    "name": {
+      "english": {
+        "common": "Croatia",
+        "official": "Republic of Croatia"
+      },
+      "native": {
+        "hrv": {
+          "official": "Republika Hrvatska",
+          "common": "Hrvatska"
+        }
+      }
+    },
+    "tld": [".hr"],
+    "countryCode": {
+      "cca2": "HR",
+      "isoAlpha3": "HRV",
+      "isoNumeric": "191"
+    },
+    "currency": {
+      "name": "Croatian Kuna",
+      "code": "HRK",
+      "symbol": "HRK"
+    },
+    "callingCode": ["385"],
+    "capital": "Zagreb",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["hrv"]
+  },
+  "HT": {
+    "name": {
+      "english": {
+        "common": "Haiti",
+        "official": "Republic of Haiti"
+      },
+      "native": {
+        "fra": {
+          "official": "République d'Haïti",
+          "common": "Haïti"
+        },
+        "hat": {
+          "official": "Repiblik Ayiti",
+          "common": "Ayiti"
+        }
+      }
+    },
+    "tld": [".ht"],
+    "countryCode": {
+      "cca2": "HT",
+      "isoAlpha3": "HTI",
+      "isoNumeric": "332"
+    },
+    "currency": {
+      "name": "Haitian Gourde",
+      "code": "HTG",
+      "symbol": "HTG"
+    },
+    "callingCode": ["509"],
+    "capital": "Port-au-Prince",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["fra", "hat"]
+  },
+  "HU": {
+    "name": {
+      "english": {
+        "common": "Hungary",
+        "official": "Hungary"
+      },
+      "native": {
+        "hun": {
+          "official": "Magyarország",
+          "common": "Magyarország"
+        }
+      }
+    },
+    "tld": [".hu"],
+    "countryCode": {
+      "cca2": "HU",
+      "isoAlpha3": "HUN",
+      "isoNumeric": "348"
+    },
+    "currency": {
+      "name": "Hungarian Forint",
+      "code": "HUF",
+      "symbol": "HUF"
+    },
+    "callingCode": ["36"],
+    "capital": "Budapest",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["hun"]
+  },
+  "ID": {
+    "name": {
+      "english": {
+        "common": "Indonesia",
+        "official": "Republic of Indonesia"
+      },
+      "native": {
+        "ind": {
+          "official": "Republik Indonesia",
+          "common": "Indonesia"
+        }
+      }
+    },
+    "tld": [".id"],
+    "countryCode": {
+      "cca2": "ID",
+      "isoAlpha3": "IDN",
+      "isoNumeric": "360"
+    },
+    "currency": {
+      "name": "Indonesian Rupiah",
+      "code": "IDR",
+      "symbol": "IDR"
+    },
+    "callingCode": ["62"],
+    "capital": "Jakarta",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ind"]
+  },
+  "IM": {
+    "name": {
+      "english": {
+        "common": "Isle of Man",
+        "official": "Isle of Man"
+      },
+      "native": {
+        "eng": {
+          "official": "Isle of Man",
+          "common": "Isle of Man"
+        },
+        "glv": {
+          "official": "Ellan Vannin or Mannin",
+          "common": "Mannin"
+        }
+      }
+    },
+    "tld": [".im"],
+    "countryCode": {
+      "cca2": "IM",
+      "isoAlpha3": "IMN",
+      "isoNumeric": "833"
+    },
+    "currency": {
+      "name": "British Pound",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "callingCode": ["44"],
+    "capital": "Douglas",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng", "glv"]
+  },
+  "IN": {
+    "name": {
+      "english": {
+        "common": "India",
+        "official": "Republic of India"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of India",
+          "common": "India"
+        },
+        "hin": {
+          "official": "भारत गणराज्य",
+          "common": "भारत"
+        },
+        "tam": {
+          "official": "இந்தியக் குடியரசு",
+          "common": "இந்தியா"
+        }
+      }
+    },
+    "tld": [".in"],
+    "countryCode": {
+      "cca2": "IN",
+      "isoAlpha3": "IND",
+      "isoNumeric": "356"
+    },
+    "currency": {
+      "name": "Indian Rupee",
+      "code": "INR",
+      "symbol": "₹"
+    },
+    "callingCode": ["91"],
+    "capital": "New Delhi",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["eng", "hin", "tam"]
+  },
+  "IO": {
+    "name": {
+      "english": {
+        "common": "British Indian Ocean Territory",
+        "official": "British Indian Ocean Territory"
+      },
+      "native": {
+        "eng": {
+          "official": "British Indian Ocean Territory",
+          "common": "British Indian Ocean Territory"
+        }
+      }
+    },
+    "tld": [".io"],
+    "countryCode": {
+      "cca2": "IO",
+      "isoAlpha3": "IOT",
+      "isoNumeric": "086"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["246"],
+    "capital": "Diego Garcia",
+    "continent": {
+      "name": "Africa",
+      "code": "AS"
+    },
+    "languages": ["eng"]
+  },
+  "IE": {
+    "name": {
+      "english": {
+        "common": "Ireland",
+        "official": "Republic of Ireland"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Ireland",
+          "common": "Ireland"
+        },
+        "gle": {
+          "official": "Poblacht na hÉireann",
+          "common": "Éire"
+        }
+      }
+    },
+    "tld": [".ie"],
+    "countryCode": {
+      "cca2": "IE",
+      "isoAlpha3": "IRL",
+      "isoNumeric": "372"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["353"],
+    "capital": "Dublin",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng", "gle"]
+  },
+  "IR": {
+    "name": {
+      "english": {
+        "common": "Iran",
+        "official": "Islamic Republic of Iran"
+      },
+      "native": {
+        "fas": {
+          "official": "جمهوری اسلامی ایران",
+          "common": "ایران"
+        }
+      }
+    },
+    "tld": [".ir", "ایران."],
+    "countryCode": {
+      "cca2": "IR",
+      "isoAlpha3": "IRN",
+      "isoNumeric": "364"
+    },
+    "currency": {
+      "name": "Iranian Rial",
+      "code": "IRR",
+      "symbol": "IRR"
+    },
+    "callingCode": ["98"],
+    "capital": "Tehran",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["fas"]
+  },
+  "IQ": {
+    "name": {
+      "english": {
+        "common": "Iraq",
+        "official": "Republic of Iraq"
+      },
+      "native": {
+        "ara": {
+          "official": "جمهورية العراق",
+          "common": "العراق"
+        },
+        "arc": {
+          "official": "ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ",
+          "common": "ܩܘܼܛܢܵܐ"
+        },
+        "ckb": {
+          "official": "کۆماری عێراق",
+          "common": "کۆماری"
+        }
+      }
+    },
+    "tld": [".iq"],
+    "countryCode": {
+      "cca2": "IQ",
+      "isoAlpha3": "IRQ",
+      "isoNumeric": "368"
+    },
+    "currency": {
+      "name": "Iraqi Dinar",
+      "code": "IQD",
+      "symbol": "IQD"
+    },
+    "callingCode": ["964"],
+    "capital": "Baghdad",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara", "arc", "ckb"]
+  },
+  "IS": {
+    "name": {
+      "english": {
+        "common": "Iceland",
+        "official": "Iceland"
+      },
+      "native": {
+        "isl": {
+          "official": "Ísland",
+          "common": "Ísland"
+        }
+      }
+    },
+    "tld": [".is"],
+    "countryCode": {
+      "cca2": "IS",
+      "isoAlpha3": "ISL",
+      "isoNumeric": "352"
+    },
+    "currency": {
+      "name": "Icelandic Króna",
+      "code": "ISK",
+      "symbol": "ISK"
+    },
+    "callingCode": ["354"],
+    "capital": "Reykjavik",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["isl"]
+  },
+  "IL": {
+    "name": {
+      "english": {
+        "common": "Israel",
+        "official": "State of Israel"
+      },
+      "native": {
+        "ara": {
+          "official": "دولة إسرائيل",
+          "common": "إسرائيل"
+        },
+        "heb": {
+          "official": "מדינת ישראל",
+          "common": "ישראל"
+        }
+      }
+    },
+    "tld": [".il"],
+    "countryCode": {
+      "cca2": "IL",
+      "isoAlpha3": "ISR",
+      "isoNumeric": "376"
+    },
+    "currency": {
+      "name": "Israeli New Sheqel",
+      "code": "ILS",
+      "symbol": "₪"
+    },
+    "callingCode": ["972"],
+    "capital": "Jerusalem",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara", "heb"]
+  },
+  "IT": {
+    "name": {
+      "english": {
+        "common": "Italy",
+        "official": "Italian Republic"
+      },
+      "native": {
+        "bar": {
+          "official": "Italienische Republik",
+          "common": "Italien"
+        },
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        },
+        "srd": {
+          "official": "Repubbricanu Italia",
+          "common": "Italia"
+        }
+      }
+    },
+    "tld": [".it"],
+    "countryCode": {
+      "cca2": "IT",
+      "isoAlpha3": "ITA",
+      "isoNumeric": "380"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["39"],
+    "capital": "Rome",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["bar", "ita", "srd"]
+  },
+  "JM": {
+    "name": {
+      "english": {
+        "common": "Jamaica",
+        "official": "Jamaica"
+      },
+      "native": {
+        "eng": {
+          "official": "Jamaica",
+          "common": "Jamaica"
+        },
+        "jam": {
+          "official": "Jamaica",
+          "common": "Jamaica"
+        }
+      }
+    },
+    "tld": [".jm"],
+    "countryCode": {
+      "cca2": "JM",
+      "isoAlpha3": "JAM",
+      "isoNumeric": "388"
+    },
+    "currency": {
+      "name": "Jamaican Dollar",
+      "code": "JMD",
+      "symbol": "JMD"
+    },
+    "callingCode": ["1876"],
+    "capital": "Kingston",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng", "jam"]
+  },
+  "JE": {
+    "name": {
+      "english": {
+        "common": "Jersey",
+        "official": "Bailiwick of Jersey"
+      },
+      "native": {
+        "eng": {
+          "official": "Bailiwick of Jersey",
+          "common": "Jersey"
+        },
+        "fra": {
+          "official": "Bailliage de Jersey",
+          "common": "Jersey"
+        },
+        "nrf": {
+          "official": "Bailliage dé Jèrri",
+          "common": "Jèrri"
+        }
+      }
+    },
+    "tld": [".je"],
+    "countryCode": {
+      "cca2": "JE",
+      "isoAlpha3": "JEY",
+      "isoNumeric": "832"
+    },
+    "currency": {
+      "name": "British Pound",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "callingCode": ["44"],
+    "capital": "Saint Helier",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng", "fra", "nrf"]
+  },
+  "JO": {
+    "name": {
+      "english": {
+        "common": "Jordan",
+        "official": "Hashemite Kingdom of Jordan"
+      },
+      "native": {
+        "ara": {
+          "official": "المملكة الأردنية الهاشمية",
+          "common": "الأردن"
+        }
+      }
+    },
+    "tld": [".jo", "الاردن."],
+    "countryCode": {
+      "cca2": "JO",
+      "isoAlpha3": "JOR",
+      "isoNumeric": "400"
+    },
+    "currency": {
+      "name": "Jordanian Dinar",
+      "code": "JOD",
+      "symbol": "JOD"
+    },
+    "callingCode": ["962"],
+    "capital": "Amman",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "JP": {
+    "name": {
+      "english": {
+        "common": "Japan",
+        "official": "Japan"
+      },
+      "native": {
+        "jpn": {
+          "official": "日本",
+          "common": "日本"
+        }
+      }
+    },
+    "tld": [".jp", ".みんな"],
+    "countryCode": {
+      "cca2": "JP",
+      "isoAlpha3": "JPN",
+      "isoNumeric": "392"
+    },
+    "currency": {
+      "name": "Japanese Yen",
+      "code": "JPY",
+      "symbol": "¥",
+      "symbol_native": "￥",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "name_plural": "Japanese yen"
+    },
+    "callingCode": ["81"],
+    "capital": "Tokyo",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["jpn"]
+  },
+  "KZ": {
+    "name": {
+      "english": {
+        "common": "Kazakhstan",
+        "official": "Republic of Kazakhstan"
+      },
+      "native": {
+        "kaz": {
+          "official": "Қазақстан Республикасы",
+          "common": "Қазақстан"
+        },
+        "rus": {
+          "official": "Республика Казахстан",
+          "common": "Казахстан"
+        }
+      }
+    },
+    "tld": [".kz", ".қаз"],
+    "countryCode": {
+      "cca2": "KZ",
+      "isoAlpha3": "KAZ",
+      "isoNumeric": "398"
+    },
+    "currency": {
+      "name": "Kazakhstani Tenge",
+      "code": "KZT",
+      "symbol": "KZT"
+    },
+    "callingCode": ["76", "77"],
+    "capital": "Astana",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["kaz", "rus"]
+  },
+  "KE": {
+    "name": {
+      "english": {
+        "common": "Kenya",
+        "official": "Republic of Kenya"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        },
+        "swa": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        }
+      }
+    },
+    "tld": [".ke"],
+    "countryCode": {
+      "cca2": "KE",
+      "isoAlpha3": "KEN",
+      "isoNumeric": "404"
+    },
+    "currency": {
+      "name": "Kenyan Shilling",
+      "code": "KES",
+      "symbol": "KES"
+    },
+    "callingCode": ["254"],
+    "capital": "Nairobi",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "swa"]
+  },
+  "KG": {
+    "name": {
+      "english": {
+        "common": "Kyrgyzstan",
+        "official": "Kyrgyz Republic"
+      },
+      "native": {
+        "kir": {
+          "official": "Кыргыз Республикасы",
+          "common": "Кыргызстан"
+        },
+        "rus": {
+          "official": "Кыргызская Республика",
+          "common": "Киргизия"
+        }
+      }
+    },
+    "tld": [".kg"],
+    "countryCode": {
+      "cca2": "KG",
+      "isoAlpha3": "KGZ",
+      "isoNumeric": "417"
+    },
+    "currency": {
+      "name": "Kyrgystani Som",
+      "code": "KGS",
+      "symbol": "KGS"
+    },
+    "callingCode": ["996"],
+    "capital": "Bishkek",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["kir", "rus"]
+  },
+  "KH": {
+    "name": {
+      "english": {
+        "common": "Cambodia",
+        "official": "Kingdom of Cambodia"
+      },
+      "native": {
+        "khm": {
+          "official": "ព្រះរាជាណាចក្រកម្ពុជា",
+          "common": "Kâmpŭchéa"
+        }
+      }
+    },
+    "tld": [".kh"],
+    "countryCode": {
+      "cca2": "KH",
+      "isoAlpha3": "KHM",
+      "isoNumeric": "116"
+    },
+    "currency": {
+      "name": "Cambodian Riel",
+      "code": "KHR",
+      "symbol": "KHR"
+    },
+    "callingCode": ["855"],
+    "capital": "Phnom Penh",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["khm"]
+  },
+  "KI": {
+    "name": {
+      "english": {
+        "common": "Kiribati",
+        "official": "Independent and Sovereign Republic of Kiribati"
+      },
+      "native": {
+        "eng": {
+          "official": "Independent and Sovereign Republic of Kiribati",
+          "common": "Kiribati"
+        },
+        "gil": {
+          "official": "Ribaberiki Kiribati",
+          "common": "Kiribati"
+        }
+      }
+    },
+    "tld": [".ki"],
+    "countryCode": {
+      "cca2": "KI",
+      "isoAlpha3": "KIR",
+      "isoNumeric": "296"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["686"],
+    "capital": "South Tarawa",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "gil"]
+  },
+  "KN": {
+    "name": {
+      "english": {
+        "common": "Saint Kitts and Nevis",
+        "official": "Federation of Saint Christopher and Nevisa"
+      },
+      "native": {
+        "eng": {
+          "official": "Federation of Saint Christopher and Nevisa",
+          "common": "Saint Kitts and Nevis"
+        }
+      }
+    },
+    "tld": [".kn"],
+    "countryCode": {
+      "cca2": "KN",
+      "isoAlpha3": "KNA",
+      "isoNumeric": "659"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1869"],
+    "capital": "Basseterre",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "KR": {
+    "name": {
+      "english": {
+        "common": "South Korea",
+        "official": "Republic of Korea"
+      },
+      "native": {
+        "kor": {
+          "official": "한국",
+          "common": "대한민국"
+        }
+      }
+    },
+    "tld": [".kr", ".한국"],
+    "countryCode": {
+      "cca2": "KR",
+      "isoAlpha3": "KOR",
+      "isoNumeric": "410"
+    },
+    "currency": {
+      "name": "South Korean Won",
+      "code": "KRW",
+      "symbol": "₩",
+      "symbol_native": "₩",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "name_plural": "South Korean won"
+    },
+    "callingCode": ["82"],
+    "capital": "Seoul",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["kor"]
+  },
+  "XK": {
+    "name": {
+      "english": {
+        "common": "Kosovo",
+        "official": "Republic of Kosovo"
+      },
+      "native": {
+        "sqi": {
+          "official": "Republika e Kosovës",
+          "common": "Kosova"
+        },
+        "srp": {
+          "official": "Република Косово",
+          "common": "Косово"
+        }
+      }
+    },
+    "tld": [],
+    "countryCode": {
+      "cca2": "XK",
+      "isoAlpha3": "KOS",
+      "isoNumeric": ""
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["383"],
+    "capital": "Pristina",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["sqi", "srp"]
+  },
+  "KW": {
+    "name": {
+      "english": {
+        "common": "Kuwait",
+        "official": "State of Kuwait"
+      },
+      "native": {
+        "ara": {
+          "official": "دولة الكويت",
+          "common": "الكويت"
+        }
+      }
+    },
+    "tld": [".kw"],
+    "countryCode": {
+      "cca2": "KW",
+      "isoAlpha3": "KWT",
+      "isoNumeric": "414"
+    },
+    "currency": {
+      "name": "Kuwaiti Dinar",
+      "code": "KWD",
+      "symbol": "KWD"
+    },
+    "callingCode": ["965"],
+    "capital": "Kuwait City",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "LA": {
+    "name": {
+      "english": {
+        "common": "Laos",
+        "official": "Lao People's Democratic Republic"
+      },
+      "native": {
+        "lao": {
+          "official": "ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ",
+          "common": "ສປປລາວ"
+        }
+      }
+    },
+    "tld": [".la"],
+    "countryCode": {
+      "cca2": "LA",
+      "isoAlpha3": "LAO",
+      "isoNumeric": "418"
+    },
+    "currency": {
+      "name": "Laotian Kip",
+      "code": "LAK",
+      "symbol": "LAK"
+    },
+    "callingCode": ["856"],
+    "capital": "Vientiane",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["lao"]
+  },
+  "LB": {
+    "name": {
+      "english": {
+        "common": "Lebanon",
+        "official": "Lebanese Republic"
+      },
+      "native": {
+        "ara": {
+          "official": "الجمهورية اللبنانية",
+          "common": "لبنان"
+        },
+        "fra": {
+          "official": "République libanaise",
+          "common": "Liban"
+        }
+      }
+    },
+    "tld": [".lb"],
+    "countryCode": {
+      "cca2": "LB",
+      "isoAlpha3": "LBN",
+      "isoNumeric": "422"
+    },
+    "currency": {
+      "name": "Lebanese Pound",
+      "code": "LBP",
+      "symbol": "LBP"
+    },
+    "callingCode": ["961"],
+    "capital": "Beirut",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara", "fra"]
+  },
+  "LR": {
+    "name": {
+      "english": {
+        "common": "Liberia",
+        "official": "Republic of Liberia"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Liberia",
+          "common": "Liberia"
+        }
+      }
+    },
+    "tld": [".lr"],
+    "countryCode": {
+      "cca2": "LR",
+      "isoAlpha3": "LBR",
+      "isoNumeric": "430"
+    },
+    "currency": {
+      "name": "Liberian Dollar",
+      "code": "LRD",
+      "symbol": "LRD"
+    },
+    "callingCode": ["231"],
+    "capital": "Monrovia",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "LY": {
+    "name": {
+      "english": {
+        "common": "Libya",
+        "official": "State of Libya"
+      },
+      "native": {
+        "ara": {
+          "official": "الدولة ليبيا",
+          "common": "‏ليبيا"
+        }
+      }
+    },
+    "tld": [".ly"],
+    "countryCode": {
+      "cca2": "LY",
+      "isoAlpha3": "LBY",
+      "isoNumeric": "434"
+    },
+    "currency": {
+      "name": "Libyan Dinar",
+      "code": "LYD",
+      "symbol": "LYD"
+    },
+    "callingCode": ["218"],
+    "capital": "Tripoli",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara"]
+  },
+  "LC": {
+    "name": {
+      "english": {
+        "common": "Saint Lucia",
+        "official": "Saint Lucia"
+      },
+      "native": {
+        "eng": {
+          "official": "Saint Lucia",
+          "common": "Saint Lucia"
+        }
+      }
+    },
+    "tld": [".lc"],
+    "countryCode": {
+      "cca2": "LC",
+      "isoAlpha3": "LCA",
+      "isoNumeric": "662"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1758"],
+    "capital": "Castries",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "LI": {
+    "name": {
+      "english": {
+        "common": "Liechtenstein",
+        "official": "Principality of Liechtenstein"
+      },
+      "native": {
+        "deu": {
+          "official": "Fürstentum Liechtenstein",
+          "common": "Liechtenstein"
+        }
+      }
+    },
+    "tld": [".li"],
+    "countryCode": {
+      "cca2": "LI",
+      "isoAlpha3": "LIE",
+      "isoNumeric": "438"
+    },
+    "currency": {
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "symbol": "CHF"
+    },
+    "callingCode": ["423"],
+    "capital": "Vaduz",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["deu"]
+  },
+  "LK": {
+    "name": {
+      "english": {
+        "common": "Sri Lanka",
+        "official": "Democratic Socialist Republic of Sri Lanka"
+      },
+      "native": {
+        "sin": {
+          "official": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+          "common": "ශ්‍රී ලංකාව"
+        },
+        "tam": {
+          "official": "இலங்கை சனநாயக சோசலிசக் குடியரசு",
+          "common": "இலங்கை"
+        }
+      }
+    },
+    "tld": [".lk", ".இலங்கை", ".ලංකා"],
+    "countryCode": {
+      "cca2": "LK",
+      "isoAlpha3": "LKA",
+      "isoNumeric": "144"
+    },
+    "currency": {
+      "name": "Sri Lankan Rupee",
+      "code": "LKR",
+      "symbol": "LKR"
+    },
+    "callingCode": ["94"],
+    "capital": "Colombo",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["sin", "tam"]
+  },
+  "LS": {
+    "name": {
+      "english": {
+        "common": "Lesotho",
+        "official": "Kingdom of Lesotho"
+      },
+      "native": {
+        "eng": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        },
+        "sot": {
+          "official": "Kingdom of Lesotho",
+          "common": "Lesotho"
+        }
+      }
+    },
+    "tld": [".ls"],
+    "countryCode": {
+      "cca2": "LS",
+      "isoAlpha3": "LSO",
+      "isoNumeric": "426"
+    },
+    "currency": {
+      "name": "Lesotho Loti",
+      "code": "LSL",
+      "symbol": "LSL"
+    },
+    "callingCode": ["266"],
+    "capital": "Maseru",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "sot"]
+  },
+  "LT": {
+    "name": {
+      "english": {
+        "common": "Lithuania",
+        "official": "Republic of Lithuania"
+      },
+      "native": {
+        "lit": {
+          "official": "Lietuvos Respublikos",
+          "common": "Lietuva"
+        }
+      }
+    },
+    "tld": [".lt"],
+    "countryCode": {
+      "cca2": "LT",
+      "isoAlpha3": "LTU",
+      "isoNumeric": "440"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["370"],
+    "capital": "Vilnius",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["lit"]
+  },
+  "LU": {
+    "name": {
+      "english": {
+        "common": "Luxembourg",
+        "official": "Grand Duchy of Luxembourg"
+      },
+      "native": {
+        "deu": {
+          "official": "Großherzogtum Luxemburg",
+          "common": "Luxemburg"
+        },
+        "fra": {
+          "official": "Grand-Duché de Luxembourg",
+          "common": "Luxembourg"
+        },
+        "ltz": {
+          "official": "Groussherzogtum Lëtzebuerg",
+          "common": "Lëtzebuerg"
+        }
+      }
+    },
+    "tld": [".lu"],
+    "countryCode": {
+      "cca2": "LU",
+      "isoAlpha3": "LUX",
+      "isoNumeric": "442"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["352"],
+    "capital": "Luxembourg",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["deu", "fra", "ltz"]
+  },
+  "LV": {
+    "name": {
+      "english": {
+        "common": "Latvia",
+        "official": "Republic of Latvia"
+      },
+      "native": {
+        "lav": {
+          "official": "Latvijas Republikas",
+          "common": "Latvija"
+        }
+      }
+    },
+    "tld": [".lv"],
+    "countryCode": {
+      "cca2": "LV",
+      "isoAlpha3": "LVA",
+      "isoNumeric": "428"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["371"],
+    "capital": "Riga",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["lav"]
+  },
+  "MO": {
+    "name": {
+      "english": {
+        "common": "Macau",
+        "official": "Macao Special Administrative Region of the People's Republic of China"
+      },
+      "native": {
+        "por": {
+          "official": "Região Administrativa Especial de Macau da República Popular da China",
+          "common": "Macau"
+        },
+        "zho": {
+          "official": "澳门特别行政区中国人民共和国",
+          "common": "澳門"
+        }
+      }
+    },
+    "tld": [".mo"],
+    "countryCode": {
+      "cca2": "MO",
+      "isoAlpha3": "MAC",
+      "isoNumeric": "446"
+    },
+    "currency": {
+      "name": "Macanese Pataca",
+      "code": "MOP",
+      "symbol": "MOP"
+    },
+    "callingCode": ["853"],
+    "capital": "",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["por", "zho"]
+  },
+  "MF": {
+    "name": {
+      "english": {
+        "common": "Saint Martin",
+        "official": "Saint Martin"
+      },
+      "native": {
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        }
+      }
+    },
+    "tld": [".fr", ".gp"],
+    "countryCode": {
+      "cca2": "MF",
+      "isoAlpha3": "MAF",
+      "isoNumeric": "663"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["590"],
+    "capital": "Marigot",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["fra"]
+  },
+  "MA": {
+    "name": {
+      "english": {
+        "common": "Morocco",
+        "official": "Kingdom of Morocco"
+      },
+      "native": {
+        "ara": {
+          "official": "المملكة المغربية",
+          "common": "المغرب"
+        },
+        "ber": {
+          "official": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ",
+          "common": "ⵍⵎⴰⵖⵔⵉⴱ"
+        }
+      }
+    },
+    "tld": [".ma", "المغرب."],
+    "countryCode": {
+      "cca2": "MA",
+      "isoAlpha3": "MAR",
+      "isoNumeric": "504"
+    },
+    "currency": {
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "symbol": "MAD"
+    },
+    "callingCode": ["212"],
+    "capital": "Rabat",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "ber"]
+  },
+  "MC": {
+    "name": {
+      "english": {
+        "common": "Monaco",
+        "official": "Principality of Monaco"
+      },
+      "native": {
+        "fra": {
+          "official": "Principauté de Monaco",
+          "common": "Monaco"
+        }
+      }
+    },
+    "tld": [".mc"],
+    "countryCode": {
+      "cca2": "MC",
+      "isoAlpha3": "MCO",
+      "isoNumeric": "492"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["377"],
+    "capital": "Monaco",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["fra"]
+  },
+  "MD": {
+    "name": {
+      "english": {
+        "common": "Moldova",
+        "official": "Republic of Moldova"
+      },
+      "native": {
+        "ron": {
+          "official": "Republica Moldova",
+          "common": "Moldova"
+        }
+      }
+    },
+    "tld": [".md"],
+    "countryCode": {
+      "cca2": "MD",
+      "isoAlpha3": "MDA",
+      "isoNumeric": "498"
+    },
+    "currency": {
+      "name": "Moldovan Leu",
+      "code": "MDL",
+      "symbol": "MDL"
+    },
+    "callingCode": ["373"],
+    "capital": "Chișinău",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ron"]
+  },
+  "MG": {
+    "name": {
+      "english": {
+        "common": "Madagascar",
+        "official": "Republic of Madagascar"
+      },
+      "native": {
+        "fra": {
+          "official": "République de Madagascar",
+          "common": "Madagascar"
+        },
+        "mlg": {
+          "official": "Repoblikan'i Madagasikara",
+          "common": "Madagasikara"
+        }
+      }
+    },
+    "tld": [".mg"],
+    "countryCode": {
+      "cca2": "MG",
+      "isoAlpha3": "MDG",
+      "isoNumeric": "450"
+    },
+    "currency": {
+      "name": "Malagasy Ariary",
+      "code": "MGA",
+      "symbol": "MGA"
+    },
+    "callingCode": ["261"],
+    "capital": "Antananarivo",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra", "mlg"]
+  },
+  "MV": {
+    "name": {
+      "english": {
+        "common": "Maldives",
+        "official": "Republic of the Maldives"
+      },
+      "native": {
+        "div": {
+          "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+          "common": "ދިވެހިރާއްޖޭގެ"
+        }
+      }
+    },
+    "tld": [".mv"],
+    "countryCode": {
+      "cca2": "MV",
+      "isoAlpha3": "MDV",
+      "isoNumeric": "462"
+    },
+    "currency": {
+      "name": "Maldivian Rufiyaa",
+      "code": "MVR",
+      "symbol": "MVR"
+    },
+    "callingCode": ["960"],
+    "capital": "Malé",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["div"]
+  },
+  "MX": {
+    "name": {
+      "english": {
+        "common": "Mexico",
+        "official": "United Mexican States"
+      },
+      "native": {
+        "spa": {
+          "official": "Estados Unidos Mexicanos",
+          "common": "México"
+        }
+      }
+    },
+    "tld": [".mx"],
+    "countryCode": {
+      "cca2": "MX",
+      "isoAlpha3": "MEX",
+      "isoNumeric": "484"
+    },
+    "currency": {
+      "name": "Mexican Peso",
+      "code": "MXN",
+      "symbol": "MX$"
+    },
+    "callingCode": ["52"],
+    "capital": "Mexico City",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "MH": {
+    "name": {
+      "english": {
+        "common": "Marshall Islands",
+        "official": "Republic of the Marshall Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of the Marshall Islands",
+          "common": "Marshall Islands"
+        },
+        "mah": {
+          "official": "Republic of the Marshall Islands",
+          "common": "M̧ajeļ"
+        }
+      }
+    },
+    "tld": [".mh"],
+    "countryCode": {
+      "cca2": "MH",
+      "isoAlpha3": "MHL",
+      "isoNumeric": "584"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["692"],
+    "capital": "Majuro",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "mah"]
+  },
+  "MK": {
+    "name": {
+      "english": {
+        "common": "Macedonia",
+        "official": "Republic of Macedonia"
+      },
+      "native": {
+        "mkd": {
+          "official": "Република Македонија",
+          "common": "Македонија"
+        }
+      }
+    },
+    "tld": [".mk"],
+    "countryCode": {
+      "cca2": "MK",
+      "isoAlpha3": "MKD",
+      "isoNumeric": "807"
+    },
+    "currency": {
+      "name": "Macedonian Denar",
+      "code": "MKD",
+      "symbol": "MKD"
+    },
+    "callingCode": ["389"],
+    "capital": "Skopje",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["mkd"]
+  },
+  "ML": {
+    "name": {
+      "english": {
+        "common": "Mali",
+        "official": "Republic of Mali"
+      },
+      "native": {
+        "fra": {
+          "official": "République du Mali",
+          "common": "Mali"
+        }
+      }
+    },
+    "tld": [".ml"],
+    "countryCode": {
+      "cca2": "ML",
+      "isoAlpha3": "MLI",
+      "isoNumeric": "466"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["223"],
+    "capital": "Bamako",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "MT": {
+    "name": {
+      "english": {
+        "common": "Malta",
+        "official": "Republic of Malta"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Malta",
+          "common": "Malta"
+        },
+        "mlt": {
+          "official": "Repubblika ta ' Malta",
+          "common": "Malta"
+        }
+      }
+    },
+    "tld": [".mt"],
+    "countryCode": {
+      "cca2": "MT",
+      "isoAlpha3": "MLT",
+      "isoNumeric": "470"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["356"],
+    "capital": "Valletta",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["eng", "mlt"]
+  },
+  "MM": {
+    "name": {
+      "english": {
+        "common": "Myanmar",
+        "official": "Republic of the Union of Myanmar"
+      },
+      "native": {
+        "mya": {
+          "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+          "common": "မြန်မာ"
+        }
+      }
+    },
+    "tld": [".mm"],
+    "countryCode": {
+      "cca2": "MM",
+      "isoAlpha3": "MMR",
+      "isoNumeric": "104"
+    },
+    "currency": {
+      "name": "Myanmar Kyat",
+      "code": "MMK",
+      "symbol": "MMK"
+    },
+    "callingCode": ["95"],
+    "capital": "Naypyidaw",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["mya"]
+  },
+  "ME": {
+    "name": {
+      "english": {
+        "common": "Montenegro",
+        "official": "Montenegro"
+      },
+      "native": {
+        "srp": {
+          "official": "Црна Гора",
+          "common": "Црна Гора"
+        }
+      }
+    },
+    "tld": [".me"],
+    "countryCode": {
+      "cca2": "ME",
+      "isoAlpha3": "MNE",
+      "isoNumeric": "499"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["382"],
+    "capital": "Podgorica",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["srp"]
+  },
+  "MN": {
+    "name": {
+      "english": {
+        "common": "Mongolia",
+        "official": "Mongolia"
+      },
+      "native": {
+        "mon": {
+          "official": "Монгол улс",
+          "common": "Монгол улс"
+        }
+      }
+    },
+    "tld": [".mn"],
+    "countryCode": {
+      "cca2": "MN",
+      "isoAlpha3": "MNG",
+      "isoNumeric": "496"
+    },
+    "currency": {
+      "name": "Mongolian Tugrik",
+      "code": "MNT",
+      "symbol": "MNT"
+    },
+    "callingCode": ["976"],
+    "capital": "Ulan Bator",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["mon"]
+  },
+  "MP": {
+    "name": {
+      "english": {
+        "common": "Northern Mariana Islands",
+        "official": "Commonwealth of the Northern Mariana Islands"
+      },
+      "native": {
+        "cal": {
+          "official": "Commonwealth of the Northern Mariana Islands",
+          "common": "Northern Mariana Islands"
+        },
+        "cha": {
+          "official": "Sankattan Siha Na Islas Mariånas",
+          "common": "Na Islas Mariånas"
+        },
+        "eng": {
+          "official": "Commonwealth of the Northern Mariana Islands",
+          "common": "Northern Mariana Islands"
+        }
+      }
+    },
+    "tld": [".mp"],
+    "countryCode": {
+      "cca2": "MP",
+      "isoAlpha3": "MNP",
+      "isoNumeric": "580"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1670"],
+    "capital": "Saipan",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["cal", "cha", "eng"]
+  },
+  "MZ": {
+    "name": {
+      "english": {
+        "common": "Mozambique",
+        "official": "Republic of Mozambique"
+      },
+      "native": {
+        "por": {
+          "official": "República de Moçambique",
+          "common": "Moçambique"
+        }
+      }
+    },
+    "tld": [".mz"],
+    "countryCode": {
+      "cca2": "MZ",
+      "isoAlpha3": "MOZ",
+      "isoNumeric": "508"
+    },
+    "currency": {
+      "name": "Mozambican Metical",
+      "code": "MZN",
+      "symbol": "MZN"
+    },
+    "callingCode": ["258"],
+    "capital": "Maputo",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["por"]
+  },
+  "MR": {
+    "name": {
+      "english": {
+        "common": "Mauritania",
+        "official": "Islamic Republic of Mauritania"
+      },
+      "native": {
+        "ara": {
+          "official": "الجمهورية الإسلامية الموريتانية",
+          "common": "موريتانيا"
+        }
+      }
+    },
+    "tld": [".mr"],
+    "countryCode": {
+      "cca2": "MR",
+      "isoAlpha3": "MRT",
+      "isoNumeric": "478"
+    },
+    "currency": {
+      "name": "Mauritanian Ouguiya",
+      "code": "MRO",
+      "symbol": "MRO"
+    },
+    "callingCode": ["222"],
+    "capital": "Nouakchott",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara"]
+  },
+  "MS": {
+    "name": {
+      "english": {
+        "common": "Montserrat",
+        "official": "Montserrat"
+      },
+      "native": {
+        "eng": {
+          "official": "Montserrat",
+          "common": "Montserrat"
+        }
+      }
+    },
+    "tld": [".ms"],
+    "countryCode": {
+      "cca2": "MS",
+      "isoAlpha3": "MSR",
+      "isoNumeric": "500"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1664"],
+    "capital": "Plymouth",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "MQ": {
+    "name": {
+      "english": {
+        "common": "Martinique",
+        "official": "Martinique"
+      },
+      "native": {
+        "fra": {
+          "official": "Martinique",
+          "common": "Martinique"
+        }
+      }
+    },
+    "tld": [".mq"],
+    "countryCode": {
+      "cca2": "MQ",
+      "isoAlpha3": "MTQ",
+      "isoNumeric": "474"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["596"],
+    "capital": "Fort-de-France",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["fra"]
+  },
+  "MU": {
+    "name": {
+      "english": {
+        "common": "Mauritius",
+        "official": "Republic of Mauritius"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Mauritius",
+          "common": "Mauritius"
+        },
+        "fra": {
+          "official": "République de Maurice",
+          "common": "Maurice"
+        },
+        "mfe": {
+          "official": "Republik Moris",
+          "common": "Moris"
+        }
+      }
+    },
+    "tld": [".mu"],
+    "countryCode": {
+      "cca2": "MU",
+      "isoAlpha3": "MUS",
+      "isoNumeric": "480"
+    },
+    "currency": {
+      "name": "Mauritian Rupee",
+      "code": "MUR",
+      "symbol": "MUR"
+    },
+    "callingCode": ["230"],
+    "capital": "Port Louis",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "fra", "mfe"]
+  },
+  "MW": {
+    "name": {
+      "english": {
+        "common": "Malawi",
+        "official": "Republic of Malawi"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Malawi",
+          "common": "Malawi"
+        },
+        "nya": {
+          "official": "Chalo cha Malawi, Dziko la Malaŵi",
+          "common": "Malaŵi"
+        }
+      }
+    },
+    "tld": [".mw"],
+    "countryCode": {
+      "cca2": "MW",
+      "isoAlpha3": "MWI",
+      "isoNumeric": "454"
+    },
+    "currency": {
+      "name": "Malawian Kwacha",
+      "code": "MWK",
+      "symbol": "MWK"
+    },
+    "callingCode": ["265"],
+    "capital": "Lilongwe",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "nya"]
+  },
+  "MY": {
+    "name": {
+      "english": {
+        "common": "Malaysia",
+        "official": "Malaysia"
+      },
+      "native": {
+        "eng": {
+          "official": "Malaysia",
+          "common": "Malaysia"
+        },
+        "msa": {
+          "official": "مليسيا",
+          "common": "مليسيا"
+        }
+      }
+    },
+    "tld": [".my"],
+    "countryCode": {
+      "cca2": "MY",
+      "isoAlpha3": "MYS",
+      "isoNumeric": "458"
+    },
+    "currency": {
+      "name": "Malaysian Ringgit",
+      "code": "MYR",
+      "symbol": "MYR"
+    },
+    "callingCode": ["60"],
+    "capital": "Kuala Lumpur",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["eng", "msa"]
+  },
+  "YT": {
+    "name": {
+      "english": {
+        "common": "Mayotte",
+        "official": "Department of Mayotte"
+      },
+      "native": {
+        "fra": {
+          "official": "Département de Mayotte",
+          "common": "Mayotte"
+        }
+      }
+    },
+    "tld": [".yt"],
+    "countryCode": {
+      "cca2": "YT",
+      "isoAlpha3": "MYT",
+      "isoNumeric": "175"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["262"],
+    "capital": "Mamoudzou",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "NA": {
+    "name": {
+      "english": {
+        "common": "Namibia",
+        "official": "Republic of Namibia"
+      },
+      "native": {
+        "afr": {
+          "official": "Republiek van Namibië",
+          "common": "Namibië"
+        },
+        "deu": {
+          "official": "Republik Namibia",
+          "common": "Namibia"
+        },
+        "eng": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "her": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "hgm": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "kwn": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "loz": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "ndo": {
+          "official": "Republic of Namibia",
+          "common": "Namibia"
+        },
+        "tsn": {
+          "official": "Lefatshe la Namibia",
+          "common": "Namibia"
+        }
+      }
+    },
+    "tld": [".na"],
+    "countryCode": {
+      "cca2": "NA",
+      "isoAlpha3": "NAM",
+      "isoNumeric": "516"
+    },
+    "currency": {
+      "name": "Namibian Dollar",
+      "code": "NAD",
+      "symbol": "NAD"
+    },
+    "callingCode": ["264"],
+    "capital": "Windhoek",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["afr", "deu", "eng", "her", "hgm", "kwn", "loz", "ndo", "tsn"]
+  },
+  "NC": {
+    "name": {
+      "english": {
+        "common": "New Caledonia",
+        "official": "New Caledonia"
+      },
+      "native": {
+        "fra": {
+          "official": "Nouvelle-Calédonie",
+          "common": "Nouvelle-Calédonie"
+        }
+      }
+    },
+    "tld": [".nc"],
+    "countryCode": {
+      "cca2": "NC",
+      "isoAlpha3": "NCL",
+      "isoNumeric": "540"
+    },
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF",
+      "symbol": "CFPF"
+    },
+    "callingCode": ["687"],
+    "capital": "Nouméa",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["fra"]
+  },
+  "NE": {
+    "name": {
+      "english": {
+        "common": "Niger",
+        "official": "Republic of Niger"
+      },
+      "native": {
+        "fra": {
+          "official": "République du Niger",
+          "common": "Niger"
+        }
+      }
+    },
+    "tld": [".ne"],
+    "countryCode": {
+      "cca2": "NE",
+      "isoAlpha3": "NER",
+      "isoNumeric": "562"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["227"],
+    "capital": "Niamey",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "NF": {
+    "name": {
+      "english": {
+        "common": "Norfolk Island",
+        "official": "Territory of Norfolk Island"
+      },
+      "native": {
+        "eng": {
+          "official": "Territory of Norfolk Island",
+          "common": "Norfolk Island"
+        },
+        "pih": {
+          "official": "Teratri of Norf'k Ailen",
+          "common": "Norf'k Ailen"
+        }
+      }
+    },
+    "tld": [".nf"],
+    "countryCode": {
+      "cca2": "NF",
+      "isoAlpha3": "NFK",
+      "isoNumeric": "574"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["672"],
+    "capital": "Kingston",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "pih"]
+  },
+  "NG": {
+    "name": {
+      "english": {
+        "common": "Nigeria",
+        "official": "Federal Republic of Nigeria"
+      },
+      "native": {
+        "eng": {
+          "official": "Federal Republic of Nigeria",
+          "common": "Nigeria"
+        }
+      }
+    },
+    "tld": [".ng"],
+    "countryCode": {
+      "cca2": "NG",
+      "isoAlpha3": "NGA",
+      "isoNumeric": "566"
+    },
+    "currency": {
+      "name": "Nigerian Naira",
+      "code": "NGN",
+      "symbol": "NGN"
+    },
+    "callingCode": ["234"],
+    "capital": "Abuja",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "NI": {
+    "name": {
+      "english": {
+        "common": "Nicaragua",
+        "official": "Republic of Nicaragua"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Nicaragua",
+          "common": "Nicaragua"
+        }
+      }
+    },
+    "tld": [".ni"],
+    "countryCode": {
+      "cca2": "NI",
+      "isoAlpha3": "NIC",
+      "isoNumeric": "558"
+    },
+    "currency": {
+      "name": "Nicaraguan Córdoba",
+      "code": "NIO",
+      "symbol": "NIO"
+    },
+    "callingCode": ["505"],
+    "capital": "Managua",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "NU": {
+    "name": {
+      "english": {
+        "common": "Niue",
+        "official": "Niue"
+      },
+      "native": {
+        "eng": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "niu": {
+          "official": "Niuē",
+          "common": "Niuē"
+        }
+      }
+    },
+    "tld": [".nu"],
+    "countryCode": {
+      "cca2": "NU",
+      "isoAlpha3": "NIU",
+      "isoNumeric": "570"
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "NZ$"
+    },
+    "callingCode": ["683"],
+    "capital": "Alofi",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "niu"]
+  },
+  "NL": {
+    "name": {
+      "english": {
+        "common": "Netherlands",
+        "official": "Netherlands"
+      },
+      "native": {
+        "nld": {
+          "official": "Nederland",
+          "common": "Nederland"
+        }
+      }
+    },
+    "tld": [".nl"],
+    "countryCode": {
+      "cca2": "NL",
+      "isoAlpha3": "NLD",
+      "isoNumeric": "528"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["31"],
+    "capital": "Amsterdam",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["nld"]
+  },
+  "NO": {
+    "name": {
+      "english": {
+        "common": "Norway",
+        "official": "Kingdom of Norway"
+      },
+      "native": {
+        "nno": {
+          "official": "Kongeriket Noreg",
+          "common": "Noreg"
+        },
+        "nob": {
+          "official": "Kongeriket Norge",
+          "common": "Norge"
+        },
+        "smi": {
+          "official": "Norgga gonagasriika",
+          "common": "Norgga"
+        }
+      }
+    },
+    "tld": [".no"],
+    "countryCode": {
+      "cca2": "NO",
+      "isoAlpha3": "NOR",
+      "isoNumeric": "578"
+    },
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "symbol": "NOK"
+    },
+    "callingCode": ["47"],
+    "capital": "Oslo",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["nno", "nob", "smi"]
+  },
+  "NP": {
+    "name": {
+      "english": {
+        "common": "Nepal",
+        "official": "Federal Democratic Republic of Nepal"
+      },
+      "native": {
+        "nep": {
+          "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+          "common": "नपल"
+        }
+      }
+    },
+    "tld": [".np"],
+    "countryCode": {
+      "cca2": "NP",
+      "isoAlpha3": "NPL",
+      "isoNumeric": "524"
+    },
+    "currency": {
+      "name": "Nepalese Rupee",
+      "code": "NPR",
+      "symbol": "NPR"
+    },
+    "callingCode": ["977"],
+    "capital": "Kathmandu",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["nep"]
+  },
+  "NR": {
+    "name": {
+      "english": {
+        "common": "Nauru",
+        "official": "Republic of Nauru"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Nauru",
+          "common": "Nauru"
+        },
+        "nau": {
+          "official": "Republic of Nauru",
+          "common": "Nauru"
+        }
+      }
+    },
+    "tld": [".nr"],
+    "countryCode": {
+      "cca2": "NR",
+      "isoAlpha3": "NRU",
+      "isoNumeric": "520"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["674"],
+    "capital": "Yaren",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "nau"]
+  },
+  "NZ": {
+    "name": {
+      "english": {
+        "common": "New Zealand",
+        "official": "New Zealand"
+      },
+      "native": {
+        "eng": {
+          "official": "New Zealand",
+          "common": "New Zealand"
+        },
+        "mri": {
+          "official": "Aotearoa",
+          "common": "Aotearoa"
+        },
+        "nzs": {
+          "official": "New Zealand",
+          "common": "New Zealand"
+        }
+      }
+    },
+    "tld": [".nz"],
+    "countryCode": {
+      "cca2": "NZ",
+      "isoAlpha3": "NZL",
+      "isoNumeric": "554"
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "NZ$"
+    },
+    "callingCode": ["64"],
+    "capital": "Wellington",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "mri", "nzs"]
+  },
+  "OM": {
+    "name": {
+      "english": {
+        "common": "Oman",
+        "official": "Sultanate of Oman"
+      },
+      "native": {
+        "ara": {
+          "official": "سلطنة عمان",
+          "common": "عمان"
+        }
+      }
+    },
+    "tld": [".om"],
+    "countryCode": {
+      "cca2": "OM",
+      "isoAlpha3": "OMN",
+      "isoNumeric": "512"
+    },
+    "currency": {
+      "name": "Omani Rial",
+      "code": "OMR",
+      "symbol": "OMR"
+    },
+    "callingCode": ["968"],
+    "capital": "Muscat",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "PK": {
+    "name": {
+      "english": {
+        "common": "Pakistan",
+        "official": "Islamic Republic of Pakistan"
+      },
+      "native": {
+        "eng": {
+          "official": "Islamic Republic of Pakistan",
+          "common": "Pakistan"
+        },
+        "urd": {
+          "official": "اسلامی جمہوریۂ پاكستان",
+          "common": "پاكستان"
+        }
+      }
+    },
+    "tld": [".pk"],
+    "countryCode": {
+      "cca2": "PK",
+      "isoAlpha3": "PAK",
+      "isoNumeric": "586"
+    },
+    "currency": {
+      "name": "Pakistani Rupee",
+      "code": "PKR",
+      "symbol": "PKR"
+    },
+    "callingCode": ["92"],
+    "capital": "Islamabad",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["eng", "urd"]
+  },
+  "PA": {
+    "name": {
+      "english": {
+        "common": "Panama",
+        "official": "Republic of Panama"
+      },
+      "native": {
+        "spa": {
+          "official": "República de Panamá",
+          "common": "Panamá"
+        }
+      }
+    },
+    "tld": [".pa"],
+    "countryCode": {
+      "cca2": "PA",
+      "isoAlpha3": "PAN",
+      "isoNumeric": "591"
+    },
+    "currency": {
+      "name": "Panamanian Balboa",
+      "code": "PAB",
+      "symbol": "PAB"
+    },
+    "callingCode": ["507"],
+    "capital": "Panama City",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "PN": {
+    "name": {
+      "english": {
+        "common": "Pitcairn Islands",
+        "official": "Pitcairn Group of Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Pitcairn Group of Islands",
+          "common": "Pitcairn Islands"
+        }
+      }
+    },
+    "tld": [".pn"],
+    "countryCode": {
+      "cca2": "PN",
+      "isoAlpha3": "PCN",
+      "isoNumeric": "612"
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "NZ$"
+    },
+    "callingCode": ["64"],
+    "capital": "Adamstown",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng"]
+  },
+  "PE": {
+    "name": {
+      "english": {
+        "common": "Peru",
+        "official": "Republic of Peru"
+      },
+      "native": {
+        "aym": {
+          "official": "Piruw Suyu",
+          "common": "Piruw"
+        },
+        "que": {
+          "official": "Piruw Ripuwlika",
+          "common": "Piruw"
+        },
+        "spa": {
+          "official": "República del Perú",
+          "common": "Perú"
+        }
+      }
+    },
+    "tld": [".pe"],
+    "countryCode": {
+      "cca2": "PE",
+      "isoAlpha3": "PER",
+      "isoNumeric": "604"
+    },
+    "currency": {
+      "name": "Peruvian Nuevo Sol",
+      "code": "PEN",
+      "symbol": "PEN"
+    },
+    "callingCode": ["51"],
+    "capital": "Lima",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["aym", "que", "spa"]
+  },
+  "PH": {
+    "name": {
+      "english": {
+        "common": "Philippines",
+        "official": "Republic of the Philippines"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of the Philippines",
+          "common": "Philippines"
+        },
+        "fil": {
+          "official": "Republic of the Philippines",
+          "common": "Pilipinas"
+        }
+      }
+    },
+    "tld": [".ph"],
+    "countryCode": {
+      "cca2": "PH",
+      "isoAlpha3": "PHL",
+      "isoNumeric": "608"
+    },
+    "currency": {
+      "name": "Philippine Peso",
+      "code": "PHP",
+      "symbol": "PHP"
+    },
+    "callingCode": ["63"],
+    "capital": "Manila",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["eng", "fil"]
+  },
+  "PW": {
+    "name": {
+      "english": {
+        "common": "Palau",
+        "official": "Republic of Palau"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Palau",
+          "common": "Palau"
+        },
+        "pau": {
+          "official": "Beluu er a Belau",
+          "common": "Belau"
+        }
+      }
+    },
+    "tld": [".pw"],
+    "countryCode": {
+      "cca2": "PW",
+      "isoAlpha3": "PLW",
+      "isoNumeric": "585"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["680"],
+    "capital": "Ngerulmud",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "pau"]
+  },
+  "PG": {
+    "name": {
+      "english": {
+        "common": "Papua New Guinea",
+        "official": "Independent State of Papua New Guinea"
+      },
+      "native": {
+        "eng": {
+          "official": "Independent State of Papua New Guinea",
+          "common": "Papua New Guinea"
+        },
+        "hmo": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niu Gini"
+        },
+        "tpi": {
+          "official": "Independen Stet bilong Papua Niugini",
+          "common": "Papua Niugini"
+        }
+      }
+    },
+    "tld": [".pg"],
+    "countryCode": {
+      "cca2": "PG",
+      "isoAlpha3": "PNG",
+      "isoNumeric": "598"
+    },
+    "currency": {
+      "name": "Papua New Guinean Kina",
+      "code": "PGK",
+      "symbol": "PGK"
+    },
+    "callingCode": ["675"],
+    "capital": "Port Moresby",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "hmo", "tpi"]
+  },
+  "PL": {
+    "name": {
+      "english": {
+        "common": "Poland",
+        "official": "Republic of Poland"
+      },
+      "native": {
+        "pol": {
+          "official": "Rzeczpospolita Polska",
+          "common": "Polska"
+        }
+      }
+    },
+    "tld": [".pl"],
+    "countryCode": {
+      "cca2": "PL",
+      "isoAlpha3": "POL",
+      "isoNumeric": "616"
+    },
+    "currency": {
+      "name": "Polish Zloty",
+      "code": "PLN",
+      "symbol": "PLN"
+    },
+    "callingCode": ["48"],
+    "capital": "Warsaw",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["pol"]
+  },
+  "PR": {
+    "name": {
+      "english": {
+        "common": "Puerto Rico",
+        "official": "Commonwealth of Puerto Rico"
+      },
+      "native": {
+        "eng": {
+          "official": "Commonwealth of Puerto Rico",
+          "common": "Puerto Rico"
+        },
+        "spa": {
+          "official": "Estado Libre Asociado de Puerto Rico",
+          "common": "Puerto Rico"
+        }
+      }
+    },
+    "tld": [".pr"],
+    "countryCode": {
+      "cca2": "PR",
+      "isoAlpha3": "PRI",
+      "isoNumeric": "630"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1787", "1939"],
+    "capital": "San Juan",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng", "spa"]
+  },
+  "KP": {
+    "name": {
+      "english": {
+        "common": "North Korea",
+        "official": "Democratic People's Republic of Korea"
+      },
+      "native": {
+        "kor": {
+          "official": "조선 민주주의 인민 공화국",
+          "common": "북한"
+        }
+      }
+    },
+    "tld": [".kp"],
+    "countryCode": {
+      "cca2": "KP",
+      "isoAlpha3": "PRK",
+      "isoNumeric": "408"
+    },
+    "currency": {
+      "name": "North Korean Won",
+      "code": "KPW",
+      "symbol": "KPW"
+    },
+    "callingCode": ["850"],
+    "capital": "Pyongyang",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["kor"]
+  },
+  "PT": {
+    "name": {
+      "english": {
+        "common": "Portugal",
+        "official": "Portuguese Republic"
+      },
+      "native": {
+        "por": {
+          "official": "República português",
+          "common": "Portugal"
+        }
+      }
+    },
+    "tld": [".pt"],
+    "countryCode": {
+      "cca2": "PT",
+      "isoAlpha3": "PRT",
+      "isoNumeric": "620"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["351"],
+    "capital": "Lisbon",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["por"]
+  },
+  "PY": {
+    "name": {
+      "english": {
+        "common": "Paraguay",
+        "official": "Republic of Paraguay"
+      },
+      "native": {
+        "grn": {
+          "official": "Tetã Paraguái",
+          "common": "Paraguái"
+        },
+        "spa": {
+          "official": "República de Paraguay",
+          "common": "Paraguay"
+        }
+      }
+    },
+    "tld": [".py"],
+    "countryCode": {
+      "cca2": "PY",
+      "isoAlpha3": "PRY",
+      "isoNumeric": "600"
+    },
+    "currency": {
+      "name": "Paraguayan Guarani",
+      "code": "PYG",
+      "symbol": "PYG"
+    },
+    "callingCode": ["595"],
+    "capital": "Asunción",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["grn", "spa"]
+  },
+  "PS": {
+    "name": {
+      "english": {
+        "common": "Palestine",
+        "official": "State of Palestine"
+      },
+      "native": {
+        "ara": {
+          "official": "دولة فلسطين",
+          "common": "فلسطين"
+        }
+      }
+    },
+    "tld": [".ps", "فلسطين."],
+    "countryCode": {
+      "cca2": "PS",
+      "isoAlpha3": "PSE",
+      "isoNumeric": "275"
+    },
+    "currency": {
+      "name": "Israeli New Sheqel",
+      "code": "ILS",
+      "symbol": "₪"
+    },
+    "callingCode": ["970"],
+    "capital": "Ramallah",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "PF": {
+    "name": {
+      "english": {
+        "common": "French Polynesia",
+        "official": "French Polynesia"
+      },
+      "native": {
+        "fra": {
+          "official": "Polynésie française",
+          "common": "Polynésie française"
+        }
+      }
+    },
+    "tld": [".pf"],
+    "countryCode": {
+      "cca2": "PF",
+      "isoAlpha3": "PYF",
+      "isoNumeric": "258"
+    },
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF",
+      "symbol": "CFPF"
+    },
+    "callingCode": ["689"],
+    "capital": "Papeetē",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["fra"]
+  },
+  "QA": {
+    "name": {
+      "english": {
+        "common": "Qatar",
+        "official": "State of Qatar"
+      },
+      "native": {
+        "ara": {
+          "official": "دولة قطر",
+          "common": "قطر"
+        }
+      }
+    },
+    "tld": [".qa", "قطر."],
+    "countryCode": {
+      "cca2": "QA",
+      "isoAlpha3": "QAT",
+      "isoNumeric": "634"
+    },
+    "currency": {
+      "name": "Qatari Rial",
+      "code": "QAR",
+      "symbol": "QAR"
+    },
+    "callingCode": ["974"],
+    "capital": "Doha",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "RE": {
+    "name": {
+      "english": {
+        "common": "Réunion",
+        "official": "Réunion Island"
+      },
+      "native": {
+        "fra": {
+          "official": "Ile de la Réunion",
+          "common": "La Réunion"
+        }
+      }
+    },
+    "tld": [".re"],
+    "countryCode": {
+      "cca2": "RE",
+      "isoAlpha3": "REU",
+      "isoNumeric": "638"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["262"],
+    "capital": "Saint-Denis",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "RO": {
+    "name": {
+      "english": {
+        "common": "Romania",
+        "official": "Romania"
+      },
+      "native": {
+        "ron": {
+          "official": "România",
+          "common": "România"
+        }
+      }
+    },
+    "tld": [".ro"],
+    "countryCode": {
+      "cca2": "RO",
+      "isoAlpha3": "ROU",
+      "isoNumeric": "642"
+    },
+    "currency": {
+      "name": "Romanian Leu",
+      "code": "RON",
+      "symbol": "RON"
+    },
+    "callingCode": ["40"],
+    "capital": "Bucharest",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ron"]
+  },
+  "RU": {
+    "name": {
+      "english": {
+        "common": "Russia",
+        "official": "Russian Federation"
+      },
+      "native": {
+        "rus": {
+          "official": "Русская Федерация",
+          "common": "Россия"
+        }
+      }
+    },
+    "tld": [".ru", ".su", ".рф"],
+    "countryCode": {
+      "cca2": "RU",
+      "isoAlpha3": "RUS",
+      "isoNumeric": "643"
+    },
+    "currency": {
+      "name": "Russian Ruble",
+      "code": "RUB",
+      "symbol": "RUB"
+    },
+    "callingCode": ["7"],
+    "capital": "Moscow",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["rus"]
+  },
+  "RW": {
+    "name": {
+      "english": {
+        "common": "Rwanda",
+        "official": "Republic of Rwanda"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Rwanda",
+          "common": "Rwanda"
+        },
+        "fra": {
+          "official": "République du Rwanda",
+          "common": "Rwanda"
+        },
+        "kin": {
+          "official": "Repubulika y'u Rwanda",
+          "common": "Rwanda"
+        }
+      }
+    },
+    "tld": [".rw"],
+    "countryCode": {
+      "cca2": "RW",
+      "isoAlpha3": "RWA",
+      "isoNumeric": "646"
+    },
+    "currency": {
+      "name": "Rwandan Franc",
+      "code": "RWF",
+      "symbol": "RWF"
+    },
+    "callingCode": ["250"],
+    "capital": "Kigali",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "fra", "kin"]
+  },
+  "SA": {
+    "name": {
+      "english": {
+        "common": "Saudi Arabia",
+        "official": "Kingdom of Saudi Arabia"
+      },
+      "native": {
+        "ara": {
+          "official": "المملكة العربية السعودية",
+          "common": "العربية السعودية"
+        }
+      }
+    },
+    "tld": [".sa", ".السعودية"],
+    "countryCode": {
+      "cca2": "SA",
+      "isoAlpha3": "SAU",
+      "isoNumeric": "682"
+    },
+    "currency": {
+      "name": "Saudi Riyal",
+      "code": "SAR",
+      "symbol": "SAR"
+    },
+    "callingCode": ["966"],
+    "capital": "Riyadh",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "SD": {
+    "name": {
+      "english": {
+        "common": "Sudan",
+        "official": "Republic of the Sudan"
+      },
+      "native": {
+        "ara": {
+          "official": "جمهورية السودان",
+          "common": "السودان"
+        },
+        "eng": {
+          "official": "Republic of the Sudan",
+          "common": "Sudan"
+        }
+      }
+    },
+    "tld": [".sd"],
+    "countryCode": {
+      "cca2": "SD",
+      "isoAlpha3": "SDN",
+      "isoNumeric": "729"
+    },
+    "currency": {
+      "name": "Sudanese Pound",
+      "code": "SDG",
+      "symbol": "SDG"
+    },
+    "callingCode": ["249"],
+    "capital": "Khartoum",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "eng"]
+  },
+  "SN": {
+    "name": {
+      "english": {
+        "common": "Senegal",
+        "official": "Republic of Senegal"
+      },
+      "native": {
+        "fra": {
+          "official": "République du Sénégal",
+          "common": "Sénégal"
+        }
+      }
+    },
+    "tld": [".sn"],
+    "countryCode": {
+      "cca2": "SN",
+      "isoAlpha3": "SEN",
+      "isoNumeric": "686"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["221"],
+    "capital": "Dakar",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "SG": {
+    "name": {
+      "english": {
+        "common": "Singapore",
+        "official": "Republic of Singapore"
+      },
+      "native": {
+        "cmn": {
+          "official": "新加坡共和国",
+          "common": "新加坡"
+        },
+        "eng": {
+          "official": "Republic of Singapore",
+          "common": "Singapore"
+        },
+        "msa": {
+          "official": "Republik Singapura",
+          "common": "Singapura"
+        },
+        "tam": {
+          "official": "சிங்கப்பூர் குடியரசு",
+          "common": "சிங்கப்பூர்"
+        }
+      }
+    },
+    "tld": [".sg", ".新加坡", ".சிங்கப்பூர்"],
+    "countryCode": {
+      "cca2": "SG",
+      "isoAlpha3": "SGP",
+      "isoNumeric": "702"
+    },
+    "currency": {
+      "name": "Singapore Dollar",
+      "code": "SGD",
+      "symbol": "SGD"
+    },
+    "callingCode": ["65"],
+    "capital": "Singapore",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["cmn", "eng", "msa", "tam"]
+  },
+  "GS": {
+    "name": {
+      "english": {
+        "common": "South Georgia",
+        "official": "South Georgia and the South Sandwich Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "South Georgia and the South Sandwich Islands",
+          "common": "South Georgia"
+        }
+      }
+    },
+    "tld": [".gs"],
+    "countryCode": {
+      "cca2": "GS",
+      "isoAlpha3": "SGS",
+      "isoNumeric": "239"
+    },
+    "currency": {
+      "name": "British Pound",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "callingCode": ["500"],
+    "capital": "King Edward Point",
+    "continent": {
+      "name": "America",
+      "code": "AN"
+    },
+    "languages": ["eng"]
+  },
+  "SJ": {
+    "name": {
+      "english": {
+        "common": "Svalbard and Jan Mayen",
+        "official": "Svalbard og Jan Mayen"
+      },
+      "native": {
+        "nor": {
+          "official": "Svalbard og Jan Mayen",
+          "common": "Svalbard og Jan Mayen"
+        }
+      }
+    },
+    "tld": [".sj"],
+    "countryCode": {
+      "cca2": "SJ",
+      "isoAlpha3": "SJM",
+      "isoNumeric": "744"
+    },
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "symbol": "NOK"
+    },
+    "callingCode": ["4779"],
+    "capital": "Longyearbyen",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["nor"]
+  },
+  "SB": {
+    "name": {
+      "english": {
+        "common": "Solomon Islands",
+        "official": "Solomon Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Solomon Islands",
+          "common": "Solomon Islands"
+        }
+      }
+    },
+    "tld": [".sb"],
+    "countryCode": {
+      "cca2": "SB",
+      "isoAlpha3": "SLB",
+      "isoNumeric": "090"
+    },
+    "currency": {
+      "name": "Solomon Islands Dollar",
+      "code": "SBD",
+      "symbol": "SBD"
+    },
+    "callingCode": ["677"],
+    "capital": "Honiara",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng"]
+  },
+  "SL": {
+    "name": {
+      "english": {
+        "common": "Sierra Leone",
+        "official": "Republic of Sierra Leone"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Sierra Leone",
+          "common": "Sierra Leone"
+        }
+      }
+    },
+    "tld": [".sl"],
+    "countryCode": {
+      "cca2": "SL",
+      "isoAlpha3": "SLE",
+      "isoNumeric": "694"
+    },
+    "currency": {
+      "name": "Sierra Leonean Leone",
+      "code": "SLL",
+      "symbol": "SLL"
+    },
+    "callingCode": ["232"],
+    "capital": "Freetown",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "SV": {
+    "name": {
+      "english": {
+        "common": "El Salvador",
+        "official": "Republic of El Salvador"
+      },
+      "native": {
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        }
+      }
+    },
+    "tld": [".sv"],
+    "countryCode": {
+      "cca2": "SV",
+      "isoAlpha3": "SLV",
+      "isoNumeric": "222"
+    },
+    "currency": {
+      "name": "Salvadoran Colón",
+      "code": "SVC",
+      "symbol": "SVC"
+    },
+    "callingCode": ["503"],
+    "capital": "San Salvador",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["spa"]
+  },
+  "SM": {
+    "name": {
+      "english": {
+        "common": "San Marino",
+        "official": "Most Serene Republic of San Marino"
+      },
+      "native": {
+        "ita": {
+          "official": "Serenissima Repubblica di San Marino",
+          "common": "San Marino"
+        }
+      }
+    },
+    "tld": [".sm"],
+    "countryCode": {
+      "cca2": "SM",
+      "isoAlpha3": "SMR",
+      "isoNumeric": "674"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["378"],
+    "capital": "City of San Marino",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ita"]
+  },
+  "SO": {
+    "name": {
+      "english": {
+        "common": "Somalia",
+        "official": "Federal Republic of Somalia"
+      },
+      "native": {
+        "ara": {
+          "official": "جمهورية الصومال‎‎",
+          "common": "الصومال‎‎"
+        },
+        "som": {
+          "official": "Jamhuuriyadda Federaalka Soomaaliya",
+          "common": "Soomaaliya"
+        }
+      }
+    },
+    "tld": [".so"],
+    "countryCode": {
+      "cca2": "SO",
+      "isoAlpha3": "SOM",
+      "isoNumeric": "706"
+    },
+    "currency": {
+      "name": "Somali Shilling",
+      "code": "SOS",
+      "symbol": "SOS"
+    },
+    "callingCode": ["252"],
+    "capital": "Mogadishu",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "som"]
+  },
+  "PM": {
+    "name": {
+      "english": {
+        "common": "Saint Pierre and Miquelon",
+        "official": "Saint Pierre and Miquelon"
+      },
+      "native": {
+        "fra": {
+          "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+          "common": "Saint-Pierre-et-Miquelon"
+        }
+      }
+    },
+    "tld": [".pm"],
+    "countryCode": {
+      "cca2": "PM",
+      "isoAlpha3": "SPM",
+      "isoNumeric": "666"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["508"],
+    "capital": "Saint-Pierre",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["fra"]
+  },
+  "RS": {
+    "name": {
+      "english": {
+        "common": "Serbia",
+        "official": "Republic of Serbia"
+      },
+      "native": {
+        "srp": {
+          "official": "Република Србија",
+          "common": "Србија"
+        }
+      }
+    },
+    "tld": [".rs", ".срб"],
+    "countryCode": {
+      "cca2": "RS",
+      "isoAlpha3": "SRB",
+      "isoNumeric": "688"
+    },
+    "currency": {
+      "name": "Serbian Dinar",
+      "code": "RSD",
+      "symbol": "RSD"
+    },
+    "callingCode": ["381"],
+    "capital": "Belgrade",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["srp"]
+  },
+  "SS": {
+    "name": {
+      "english": {
+        "common": "South Sudan",
+        "official": "Republic of South Sudan"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of South Sudan",
+          "common": "South Sudan"
+        }
+      }
+    },
+    "tld": [".ss"],
+    "countryCode": {
+      "cca2": "SS",
+      "isoAlpha3": "SSD",
+      "isoNumeric": "728"
+    },
+    "currency": {
+      "name": "South Sudanese Pound",
+      "code": "SSP",
+      "symbol": "SSP"
+    },
+    "callingCode": ["211"],
+    "capital": "Juba",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "ST": {
+    "name": {
+      "english": {
+        "common": "São Tomé and Príncipe",
+        "official": "Democratic Republic of São Tomé and Príncipe"
+      },
+      "native": {
+        "por": {
+          "official": "República Democrática do São Tomé e Príncipe",
+          "common": "São Tomé e Príncipe"
+        }
+      }
+    },
+    "tld": [".st"],
+    "countryCode": {
+      "cca2": "ST",
+      "isoAlpha3": "STP",
+      "isoNumeric": "678"
+    },
+    "currency": {
+      "name": "São Tomé & Príncipe Dobra",
+      "code": "STD",
+      "symbol": "STD"
+    },
+    "callingCode": ["239"],
+    "capital": "São Tomé",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["por"]
+  },
+  "SR": {
+    "name": {
+      "english": {
+        "common": "Suriname",
+        "official": "Republic of Suriname"
+      },
+      "native": {
+        "nld": {
+          "official": "Republiek Suriname",
+          "common": "Suriname"
+        }
+      }
+    },
+    "tld": [".sr"],
+    "countryCode": {
+      "cca2": "SR",
+      "isoAlpha3": "SUR",
+      "isoNumeric": "740"
+    },
+    "currency": {
+      "name": "Surinamese Dollar",
+      "code": "SRD",
+      "symbol": "SRD"
+    },
+    "callingCode": ["597"],
+    "capital": "Paramaribo",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["nld"]
+  },
+  "SK": {
+    "name": {
+      "english": {
+        "common": "Slovakia",
+        "official": "Slovak Republic"
+      },
+      "native": {
+        "slk": {
+          "official": "Slovenská republika",
+          "common": "Slovensko"
+        }
+      }
+    },
+    "tld": [".sk"],
+    "countryCode": {
+      "cca2": "SK",
+      "isoAlpha3": "SVK",
+      "isoNumeric": "703"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["421"],
+    "capital": "Bratislava",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["slk"]
+  },
+  "SI": {
+    "name": {
+      "english": {
+        "common": "Slovenia",
+        "official": "Republic of Slovenia"
+      },
+      "native": {
+        "slv": {
+          "official": "Republika Slovenija",
+          "common": "Slovenija"
+        }
+      }
+    },
+    "tld": [".si"],
+    "countryCode": {
+      "cca2": "SI",
+      "isoAlpha3": "SVN",
+      "isoNumeric": "705"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["386"],
+    "capital": "Ljubljana",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["slv"]
+  },
+  "SE": {
+    "name": {
+      "english": {
+        "common": "Sweden",
+        "official": "Kingdom of Sweden"
+      },
+      "native": {
+        "swe": {
+          "official": "Konungariket Sverige",
+          "common": "Sverige"
+        }
+      }
+    },
+    "tld": [".se"],
+    "countryCode": {
+      "cca2": "SE",
+      "isoAlpha3": "SWE",
+      "isoNumeric": "752"
+    },
+    "currency": {
+      "name": "Swedish Krona",
+      "code": "SEK",
+      "symbol": "SEK"
+    },
+    "callingCode": ["46"],
+    "capital": "Stockholm",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["swe"]
+  },
+  "SZ": {
+    "name": {
+      "english": {
+        "common": "Swaziland",
+        "official": "Kingdom of Swaziland"
+      },
+      "native": {
+        "eng": {
+          "official": "Kingdom of Swaziland",
+          "common": "Swaziland"
+        },
+        "ssw": {
+          "official": "Kingdom of Swaziland",
+          "common": "Swaziland"
+        }
+      }
+    },
+    "tld": [".sz"],
+    "countryCode": {
+      "cca2": "SZ",
+      "isoAlpha3": "SWZ",
+      "isoNumeric": "748"
+    },
+    "currency": {
+      "name": "Swazi Lilangeni",
+      "code": "SZL",
+      "symbol": "SZL"
+    },
+    "callingCode": ["268"],
+    "capital": "Lobamba",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "ssw"]
+  },
+  "SX": {
+    "name": {
+      "english": {
+        "common": "Sint Maarten",
+        "official": "Sint Maarten"
+      },
+      "native": {
+        "eng": {
+          "official": "Sint Maarten",
+          "common": "Sint Maarten"
+        },
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "nld": {
+          "official": "Sint Maarten",
+          "common": "Sint Maarten"
+        }
+      }
+    },
+    "tld": [".sx"],
+    "countryCode": {
+      "cca2": "SX",
+      "isoAlpha3": "SXM",
+      "isoNumeric": "534"
+    },
+    "currency": {
+      "name": "Netherlands Antillean Guilder",
+      "code": "ANG",
+      "symbol": "ANG"
+    },
+    "callingCode": ["1721"],
+    "capital": "Philipsburg",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng", "fra", "nld"]
+  },
+  "SC": {
+    "name": {
+      "english": {
+        "common": "Seychelles",
+        "official": "Republic of Seychelles"
+      },
+      "native": {
+        "crs": {
+          "official": "Repiblik Sesel",
+          "common": "Sesel"
+        },
+        "eng": {
+          "official": "Republic of Seychelles",
+          "common": "Seychelles"
+        },
+        "fra": {
+          "official": "République des Seychelles",
+          "common": "Seychelles"
+        }
+      }
+    },
+    "tld": [".sc"],
+    "countryCode": {
+      "cca2": "SC",
+      "isoAlpha3": "SYC",
+      "isoNumeric": "690"
+    },
+    "currency": {
+      "name": "Seychellois Rupee",
+      "code": "SCR",
+      "symbol": "SCR"
+    },
+    "callingCode": ["248"],
+    "capital": "Victoria",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["crs", "eng", "fra"]
+  },
+  "SY": {
+    "name": {
+      "english": {
+        "common": "Syria",
+        "official": "Syrian Arab Republic"
+      },
+      "native": {
+        "ara": {
+          "official": "الجمهورية العربية السورية",
+          "common": "سوريا"
+        }
+      }
+    },
+    "tld": [".sy", "سوريا."],
+    "countryCode": {
+      "cca2": "SY",
+      "isoAlpha3": "SYR",
+      "isoNumeric": "760"
+    },
+    "currency": {
+      "name": "Syrian Pound",
+      "code": "SYP",
+      "symbol": "SYP"
+    },
+    "callingCode": ["963"],
+    "capital": "Damascus",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "TC": {
+    "name": {
+      "english": {
+        "common": "Turks and Caicos Islands",
+        "official": "Turks and Caicos Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Turks and Caicos Islands",
+          "common": "Turks and Caicos Islands"
+        }
+      }
+    },
+    "tld": [".tc"],
+    "countryCode": {
+      "cca2": "TC",
+      "isoAlpha3": "TCA",
+      "isoNumeric": "796"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1649"],
+    "capital": "Cockburn Town",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "TD": {
+    "name": {
+      "english": {
+        "common": "Chad",
+        "official": "Republic of Chad"
+      },
+      "native": {
+        "ara": {
+          "official": "جمهورية تشاد",
+          "common": "تشاد‎"
+        },
+        "fra": {
+          "official": "République du Tchad",
+          "common": "Tchad"
+        }
+      }
+    },
+    "tld": [".td"],
+    "countryCode": {
+      "cca2": "TD",
+      "isoAlpha3": "TCD",
+      "isoNumeric": "148"
+    },
+    "currency": {
+      "name": "Central African CFA Franc",
+      "code": "XAF",
+      "symbol": "FCFA"
+    },
+    "callingCode": ["235"],
+    "capital": "N'Djamena",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara", "fra"]
+  },
+  "TG": {
+    "name": {
+      "english": {
+        "common": "Togo",
+        "official": "Togolese Republic"
+      },
+      "native": {
+        "fra": {
+          "official": "République togolaise",
+          "common": "Togo"
+        }
+      }
+    },
+    "tld": [".tg"],
+    "countryCode": {
+      "cca2": "TG",
+      "isoAlpha3": "TGO",
+      "isoNumeric": "768"
+    },
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF",
+      "symbol": "CFA"
+    },
+    "callingCode": ["228"],
+    "capital": "Lomé",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["fra"]
+  },
+  "TH": {
+    "name": {
+      "english": {
+        "common": "Thailand",
+        "official": "Kingdom of Thailand"
+      },
+      "native": {
+        "tha": {
+          "official": "ราชอาณาจักรไทย",
+          "common": "ประเทศไทย"
+        }
+      }
+    },
+    "tld": [".th", ".ไทย"],
+    "countryCode": {
+      "cca2": "TH",
+      "isoAlpha3": "THA",
+      "isoNumeric": "764"
+    },
+    "currency": {
+      "name": "Thai Baht",
+      "code": "THB",
+      "symbol": "THB"
+    },
+    "callingCode": ["66"],
+    "capital": "Bangkok",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["tha"]
+  },
+  "TJ": {
+    "name": {
+      "english": {
+        "common": "Tajikistan",
+        "official": "Republic of Tajikistan"
+      },
+      "native": {
+        "rus": {
+          "official": "Республика Таджикистан",
+          "common": "Таджикистан"
+        },
+        "tgk": {
+          "official": "Ҷумҳурии Тоҷикистон",
+          "common": "Тоҷикистон"
+        }
+      }
+    },
+    "tld": [".tj"],
+    "countryCode": {
+      "cca2": "TJ",
+      "isoAlpha3": "TJK",
+      "isoNumeric": "762"
+    },
+    "currency": {
+      "name": "Tajikistani Somoni",
+      "code": "TJS",
+      "symbol": "TJS"
+    },
+    "callingCode": ["992"],
+    "capital": "Dushanbe",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["rus", "tgk"]
+  },
+  "TK": {
+    "name": {
+      "english": {
+        "common": "Tokelau",
+        "official": "Tokelau"
+      },
+      "native": {
+        "eng": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "smo": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "tkl": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        }
+      }
+    },
+    "tld": [".tk"],
+    "countryCode": {
+      "cca2": "TK",
+      "isoAlpha3": "TKL",
+      "isoNumeric": "772"
+    },
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "NZ$"
+    },
+    "callingCode": ["690"],
+    "capital": "Fakaofo",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "smo", "tkl"]
+  },
+  "TM": {
+    "name": {
+      "english": {
+        "common": "Turkmenistan",
+        "official": "Turkmenistan"
+      },
+      "native": {
+        "rus": {
+          "official": "Туркменистан",
+          "common": "Туркмения"
+        },
+        "tuk": {
+          "official": "Türkmenistan",
+          "common": "Türkmenistan"
+        }
+      }
+    },
+    "tld": [".tm"],
+    "countryCode": {
+      "cca2": "TM",
+      "isoAlpha3": "TKM",
+      "isoNumeric": "795"
+    },
+    "currency": {
+      "name": "Turkmenistani Manat",
+      "code": "TMT",
+      "symbol": "TMT"
+    },
+    "callingCode": ["993"],
+    "capital": "Ashgabat",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["rus", "tuk"]
+  },
+  "TL": {
+    "name": {
+      "english": {
+        "common": "Timor-Leste",
+        "official": "Democratic Republic of Timor-Leste"
+      },
+      "native": {
+        "por": {
+          "official": "República Democrática de Timor-Leste",
+          "common": "Timor-Leste"
+        },
+        "tet": {
+          "official": "Repúblika Demokrátika Timór-Leste",
+          "common": "Timór-Leste"
+        }
+      }
+    },
+    "tld": [".tl"],
+    "countryCode": {
+      "cca2": "TL",
+      "isoAlpha3": "TLS",
+      "isoNumeric": "626"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["670"],
+    "capital": "Dili",
+    "continent": {
+      "name": "Asia",
+      "code": "OC"
+    },
+    "languages": ["por", "tet"]
+  },
+  "TO": {
+    "name": {
+      "english": {
+        "common": "Tonga",
+        "official": "Kingdom of Tonga"
+      },
+      "native": {
+        "eng": {
+          "official": "Kingdom of Tonga",
+          "common": "Tonga"
+        },
+        "ton": {
+          "official": "Kingdom of Tonga",
+          "common": "Tonga"
+        }
+      }
+    },
+    "tld": [".to"],
+    "countryCode": {
+      "cca2": "TO",
+      "isoAlpha3": "TON",
+      "isoNumeric": "776"
+    },
+    "currency": {
+      "name": "Tongan Paʻanga",
+      "code": "TOP",
+      "symbol": "TOP"
+    },
+    "callingCode": ["676"],
+    "capital": "Nuku'alofa",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "ton"]
+  },
+  "TT": {
+    "name": {
+      "english": {
+        "common": "Trinidad and Tobago",
+        "official": "Republic of Trinidad and Tobago"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Trinidad and Tobago",
+          "common": "Trinidad and Tobago"
+        }
+      }
+    },
+    "tld": [".tt"],
+    "countryCode": {
+      "cca2": "TT",
+      "isoAlpha3": "TTO",
+      "isoNumeric": "780"
+    },
+    "currency": {
+      "name": "Trinidad & Tobago Dollar",
+      "code": "TTD",
+      "symbol": "TTD"
+    },
+    "callingCode": ["1868"],
+    "capital": "Port of Spain",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "TN": {
+    "name": {
+      "english": {
+        "common": "Tunisia",
+        "official": "Tunisian Republic"
+      },
+      "native": {
+        "ara": {
+          "official": "الجمهورية التونسية",
+          "common": "تونس"
+        }
+      }
+    },
+    "tld": [".tn"],
+    "countryCode": {
+      "cca2": "TN",
+      "isoAlpha3": "TUN",
+      "isoNumeric": "788"
+    },
+    "currency": {
+      "name": "Tunisian Dinar",
+      "code": "TND",
+      "symbol": "TND"
+    },
+    "callingCode": ["216"],
+    "capital": "Tunis",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["ara"]
+  },
+  "TR": {
+    "name": {
+      "english": {
+        "common": "Turkey",
+        "official": "Republic of Turkey"
+      },
+      "native": {
+        "tur": {
+          "official": "Türkiye Cumhuriyeti",
+          "common": "Türkiye"
+        }
+      }
+    },
+    "tld": [".tr"],
+    "countryCode": {
+      "cca2": "TR",
+      "isoAlpha3": "TUR",
+      "isoNumeric": "792"
+    },
+    "currency": {
+      "name": "Turkish Lira",
+      "code": "TRY",
+      "symbol": "TRY"
+    },
+    "callingCode": ["90"],
+    "capital": "Ankara",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["tur"]
+  },
+  "TV": {
+    "name": {
+      "english": {
+        "common": "Tuvalu",
+        "official": "Tuvalu"
+      },
+      "native": {
+        "eng": {
+          "official": "Tuvalu",
+          "common": "Tuvalu"
+        },
+        "tvl": {
+          "official": "Tuvalu",
+          "common": "Tuvalu"
+        }
+      }
+    },
+    "tld": [".tv"],
+    "countryCode": {
+      "cca2": "TV",
+      "isoAlpha3": "TUV",
+      "isoNumeric": "798"
+    },
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "A$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "Australian dollars"
+    },
+    "callingCode": ["688"],
+    "capital": "Funafuti",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "tvl"]
+  },
+  "TW": {
+    "name": {
+      "english": {
+        "common": "Taiwan",
+        "official": "Republic of China"
+      },
+      "native": {
+        "cmn": {
+          "official": "中华民国",
+          "common": "臺灣"
+        }
+      }
+    },
+    "tld": [".tw", ".台湾", ".台灣"],
+    "countryCode": {
+      "cca2": "TW",
+      "isoAlpha3": "TWN",
+      "isoNumeric": "158"
+    },
+    "currency": {
+      "name": "New Taiwan Dollar",
+      "code": "TWD",
+      "symbol": "NT$",
+      "symbol_native": "NT$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "New Taiwan dollars"
+    },
+    "callingCode": ["886"],
+    "capital": "Taipei",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["cmn"]
+  },
+  "TZ": {
+    "name": {
+      "english": {
+        "common": "Tanzania",
+        "official": "United Republic of Tanzania"
+      },
+      "native": {
+        "eng": {
+          "official": "United Republic of Tanzania",
+          "common": "Tanzania"
+        },
+        "swa": {
+          "official": "Jamhuri ya Muungano wa Tanzania",
+          "common": "Tanzania"
+        }
+      }
+    },
+    "tld": [".tz"],
+    "countryCode": {
+      "cca2": "TZ",
+      "isoAlpha3": "TZA",
+      "isoNumeric": "834"
+    },
+    "currency": {
+      "name": "Tanzanian Shilling",
+      "code": "TZS",
+      "symbol": "TZS"
+    },
+    "callingCode": ["255"],
+    "capital": "Dodoma",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "swa"]
+  },
+  "UG": {
+    "name": {
+      "english": {
+        "common": "Uganda",
+        "official": "Republic of Uganda"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        },
+        "swa": {
+          "official": "Republic of Uganda",
+          "common": "Uganda"
+        }
+      }
+    },
+    "tld": [".ug"],
+    "countryCode": {
+      "cca2": "UG",
+      "isoAlpha3": "UGA",
+      "isoNumeric": "800"
+    },
+    "currency": {
+      "name": "Ugandan Shilling",
+      "code": "UGX",
+      "symbol": "UGX"
+    },
+    "callingCode": ["256"],
+    "capital": "Kampala",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng", "swa"]
+  },
+  "UA": {
+    "name": {
+      "english": {
+        "common": "Ukraine",
+        "official": "Ukraine"
+      },
+      "native": {
+        "rus": {
+          "official": "Украина",
+          "common": "Украина"
+        },
+        "ukr": {
+          "official": "Україна",
+          "common": "Україна"
+        }
+      }
+    },
+    "tld": [".ua", ".укр"],
+    "countryCode": {
+      "cca2": "UA",
+      "isoAlpha3": "UKR",
+      "isoNumeric": "804"
+    },
+    "currency": {
+      "name": "Ukrainian Hryvnia",
+      "code": "UAH",
+      "symbol": "UAH"
+    },
+    "callingCode": ["380"],
+    "capital": "Kiev",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["rus", "ukr"]
+  },
+  "UM": {
+    "name": {
+      "english": {
+        "common": "United States Minor Outlying Islands",
+        "official": "United States Minor Outlying Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "United States Minor Outlying Islands",
+          "common": "United States Minor Outlying Islands"
+        }
+      }
+    },
+    "tld": [".us"],
+    "countryCode": {
+      "cca2": "UM",
+      "isoAlpha3": "UMI",
+      "isoNumeric": "581"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": [],
+    "capital": "",
+    "continent": {
+      "name": "America",
+      "code": "OC"
+    },
+    "languages": ["eng"]
+  },
+  "UY": {
+    "name": {
+      "english": {
+        "common": "Uruguay",
+        "official": "Oriental Republic of Uruguay"
+      },
+      "native": {
+        "spa": {
+          "official": "República Oriental del Uruguay",
+          "common": "Uruguay"
+        }
+      }
+    },
+    "tld": [".uy"],
+    "countryCode": {
+      "cca2": "UY",
+      "isoAlpha3": "URY",
+      "isoNumeric": "858"
+    },
+    "currency": {
+      "name": "",
+      "code": "UYI",
+      "symbol": ""
+    },
+    "callingCode": ["598"],
+    "capital": "Montevideo",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["spa"]
+  },
+  "US": {
+    "name": {
+      "english": {
+        "common": "United States",
+        "official": "United States of America"
+      },
+      "native": {
+        "eng": {
+          "official": "United States of America",
+          "common": "United States"
+        }
+      }
+    },
+    "tld": [".us"],
+    "countryCode": {
+      "cca2": "US",
+      "isoAlpha3": "USA",
+      "isoNumeric": "840"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1"],
+    "capital": "Washington D.C.",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "UZ": {
+    "name": {
+      "english": {
+        "common": "Uzbekistan",
+        "official": "Republic of Uzbekistan"
+      },
+      "native": {
+        "rus": {
+          "official": "Республика Узбекистан",
+          "common": "Узбекистан"
+        },
+        "uzb": {
+          "official": "O'zbekiston Respublikasi",
+          "common": "O‘zbekiston"
+        }
+      }
+    },
+    "tld": [".uz"],
+    "countryCode": {
+      "cca2": "UZ",
+      "isoAlpha3": "UZB",
+      "isoNumeric": "860"
+    },
+    "currency": {
+      "name": "Uzbekistani Som",
+      "code": "UZS",
+      "symbol": "UZS"
+    },
+    "callingCode": ["998"],
+    "capital": "Tashkent",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["rus", "uzb"]
+  },
+  "VA": {
+    "name": {
+      "english": {
+        "common": "Vatican City",
+        "official": "Vatican City State"
+      },
+      "native": {
+        "ita": {
+          "official": "Stato della Città del Vaticano",
+          "common": "Vaticano"
+        },
+        "lat": {
+          "official": "Status Civitatis Vaticanæ",
+          "common": "Vaticanæ"
+        }
+      }
+    },
+    "tld": [".va"],
+    "countryCode": {
+      "cca2": "VA",
+      "isoAlpha3": "VAT",
+      "isoNumeric": "336"
+    },
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "euros"
+    },
+    "callingCode": ["3906698", "379"],
+    "capital": "Vatican City",
+    "continent": {
+      "name": "Europe",
+      "code": "EU"
+    },
+    "languages": ["ita", "lat"]
+  },
+  "VC": {
+    "name": {
+      "english": {
+        "common": "Saint Vincent and the Grenadines",
+        "official": "Saint Vincent and the Grenadines"
+      },
+      "native": {
+        "eng": {
+          "official": "Saint Vincent and the Grenadines",
+          "common": "Saint Vincent and the Grenadines"
+        }
+      }
+    },
+    "tld": [".vc"],
+    "countryCode": {
+      "cca2": "VC",
+      "isoAlpha3": "VCT",
+      "isoNumeric": "670"
+    },
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "EC$"
+    },
+    "callingCode": ["1784"],
+    "capital": "Kingstown",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "VE": {
+    "name": {
+      "english": {
+        "common": "Venezuela",
+        "official": "Bolivarian Republic of Venezuela"
+      },
+      "native": {
+        "spa": {
+          "official": "República Bolivariana de Venezuela",
+          "common": "Venezuela"
+        }
+      }
+    },
+    "tld": [".ve"],
+    "countryCode": {
+      "cca2": "VE",
+      "isoAlpha3": "VEN",
+      "isoNumeric": "862"
+    },
+    "currency": {
+      "name": "Venezuelan Bolívar",
+      "code": "VEF",
+      "symbol": "VEF"
+    },
+    "callingCode": ["58"],
+    "capital": "Caracas",
+    "continent": {
+      "name": "America",
+      "code": "SA"
+    },
+    "languages": ["spa"]
+  },
+  "VG": {
+    "name": {
+      "english": {
+        "common": "British Virgin Islands",
+        "official": "Virgin Islands"
+      },
+      "native": {
+        "eng": {
+          "official": "Virgin Islands",
+          "common": "British Virgin Islands"
+        }
+      }
+    },
+    "tld": [".vg"],
+    "countryCode": {
+      "cca2": "VG",
+      "isoAlpha3": "VGB",
+      "isoNumeric": "092"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1284"],
+    "capital": "Road Town",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "VI": {
+    "name": {
+      "english": {
+        "common": "United States Virgin Islands",
+        "official": "Virgin Islands of the United States"
+      },
+      "native": {
+        "eng": {
+          "official": "Virgin Islands of the United States",
+          "common": "United States Virgin Islands"
+        }
+      }
+    },
+    "tld": [".vi"],
+    "countryCode": {
+      "cca2": "VI",
+      "isoAlpha3": "VIR",
+      "isoNumeric": "850"
+    },
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "name_plural": "US dollars"
+    },
+    "callingCode": ["1340"],
+    "capital": "Charlotte Amalie",
+    "continent": {
+      "name": "America",
+      "code": "NA"
+    },
+    "languages": ["eng"]
+  },
+  "VN": {
+    "name": {
+      "english": {
+        "common": "Vietnam",
+        "official": "Socialist Republic of Vietnam"
+      },
+      "native": {
+        "vie": {
+          "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+          "common": "Việt Nam"
+        }
+      }
+    },
+    "tld": [".vn"],
+    "countryCode": {
+      "cca2": "VN",
+      "isoAlpha3": "VNM",
+      "isoNumeric": "704"
+    },
+    "currency": {
+      "name": "Vietnamese Dong",
+      "code": "VND",
+      "symbol": "₫",
+      "symbol_native": "₫",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "name_plural": "Vietnamese dong"
+    },
+    "callingCode": ["84"],
+    "capital": "Hanoi",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["vie"]
+  },
+  "VU": {
+    "name": {
+      "english": {
+        "common": "Vanuatu",
+        "official": "Republic of Vanuatu"
+      },
+      "native": {
+        "bis": {
+          "official": "Ripablik blong Vanuatu",
+          "common": "Vanuatu"
+        },
+        "eng": {
+          "official": "Republic of Vanuatu",
+          "common": "Vanuatu"
+        },
+        "fra": {
+          "official": "République de Vanuatu",
+          "common": "Vanuatu"
+        }
+      }
+    },
+    "tld": [".vu"],
+    "countryCode": {
+      "cca2": "VU",
+      "isoAlpha3": "VUT",
+      "isoNumeric": "548"
+    },
+    "currency": {
+      "name": "Vanuatu Vatu",
+      "code": "VUV",
+      "symbol": "VUV"
+    },
+    "callingCode": ["678"],
+    "capital": "Port Vila",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["bis", "eng", "fra"]
+  },
+  "WF": {
+    "name": {
+      "english": {
+        "common": "Wallis and Futuna",
+        "official": "Territory of the Wallis and Futuna Islands"
+      },
+      "native": {
+        "fra": {
+          "official": "Territoire des îles Wallis et Futuna",
+          "common": "Wallis et Futuna"
+        }
+      }
+    },
+    "tld": [".wf"],
+    "countryCode": {
+      "cca2": "WF",
+      "isoAlpha3": "WLF",
+      "isoNumeric": "876"
+    },
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF",
+      "symbol": "CFPF"
+    },
+    "callingCode": ["681"],
+    "capital": "Mata-Utu",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["fra"]
+  },
+  "WS": {
+    "name": {
+      "english": {
+        "common": "Samoa",
+        "official": "Independent State of Samoa"
+      },
+      "native": {
+        "eng": {
+          "official": "Independent State of Samoa",
+          "common": "Samoa"
+        },
+        "smo": {
+          "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+          "common": "Sāmoa"
+        }
+      }
+    },
+    "tld": [".ws"],
+    "countryCode": {
+      "cca2": "WS",
+      "isoAlpha3": "WSM",
+      "isoNumeric": "882"
+    },
+    "currency": {
+      "name": "Samoan Tala",
+      "code": "WST",
+      "symbol": "WST"
+    },
+    "callingCode": ["685"],
+    "capital": "Apia",
+    "continent": {
+      "name": "Oceania",
+      "code": "OC"
+    },
+    "languages": ["eng", "smo"]
+  },
+  "YE": {
+    "name": {
+      "english": {
+        "common": "Yemen",
+        "official": "Republic of Yemen"
+      },
+      "native": {
+        "ara": {
+          "official": "الجمهورية اليمنية",
+          "common": "اليَمَن"
+        }
+      }
+    },
+    "tld": [".ye"],
+    "countryCode": {
+      "cca2": "YE",
+      "isoAlpha3": "YEM",
+      "isoNumeric": "887"
+    },
+    "currency": {
+      "name": "Yemeni Rial",
+      "code": "YER",
+      "symbol": "YER"
+    },
+    "callingCode": ["967"],
+    "capital": "Sana'a",
+    "continent": {
+      "name": "Asia",
+      "code": "AS"
+    },
+    "languages": ["ara"]
+  },
+  "ZA": {
+    "name": {
+      "english": {
+        "common": "South Africa",
+        "official": "Republic of South Africa"
+      },
+      "native": {
+        "afr": {
+          "official": "Republiek van Suid-Afrika",
+          "common": "South Africa"
+        },
+        "eng": {
+          "official": "Republic of South Africa",
+          "common": "South Africa"
+        },
+        "nbl": {
+          "official": "IRiphabliki yeSewula Afrika",
+          "common": "Sewula Afrika"
+        },
+        "nso": {
+          "official": "Rephaboliki ya Afrika-Borwa ",
+          "common": "Afrika-Borwa"
+        },
+        "sot": {
+          "official": "Rephaboliki ya Afrika Borwa",
+          "common": "Afrika Borwa"
+        },
+        "ssw": {
+          "official": "IRiphabhulikhi yeNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        },
+        "tsn": {
+          "official": "Rephaboliki ya Aforika Borwa",
+          "common": "Aforika Borwa"
+        },
+        "tso": {
+          "official": "Riphabliki ra Afrika Dzonga",
+          "common": "Afrika Dzonga"
+        },
+        "ven": {
+          "official": "Riphabuḽiki ya Afurika Tshipembe",
+          "common": "Afurika Tshipembe"
+        },
+        "xho": {
+          "official": "IRiphabliki yaseMzantsi Afrika",
+          "common": "Mzantsi Afrika"
+        },
+        "zul": {
+          "official": "IRiphabliki yaseNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        }
+      }
+    },
+    "tld": [".za"],
+    "countryCode": {
+      "cca2": "ZA",
+      "isoAlpha3": "ZAF",
+      "isoNumeric": "710"
+    },
+    "currency": {
+      "name": "South African Rand",
+      "code": "ZAR",
+      "symbol": "ZAR"
+    },
+    "callingCode": ["27"],
+    "capital": "Pretoria",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["afr", "eng", "nbl", "nso", "sot", "ssw", "tsn", "tso", "ven", "xho", "zul"]
+  },
+  "ZM": {
+    "name": {
+      "english": {
+        "common": "Zambia",
+        "official": "Republic of Zambia"
+      },
+      "native": {
+        "eng": {
+          "official": "Republic of Zambia",
+          "common": "Zambia"
+        }
+      }
+    },
+    "tld": [".zm"],
+    "countryCode": {
+      "cca2": "ZM",
+      "isoAlpha3": "ZMB",
+      "isoNumeric": "894"
+    },
+    "currency": {
+      "name": "Zambian Kwacha",
+      "code": "ZMW",
+      "symbol": "ZMW"
+    },
+    "callingCode": ["260"],
+    "capital": "Lusaka",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["eng"]
+  },
+  "ZW": {
+    "name": {
+      "english": {
+        "common": "Zimbabwe",
+        "official": "Republic of Zimbabwe"
+      },
+      "native": {
+        "bwg": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "eng": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "kck": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "khi": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "ndc": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "nde": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "nya": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "sna": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "sot": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "toi": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "tsn": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "tso": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "ven": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "xho": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        },
+        "zib": {
+          "official": "Republic of Zimbabwe",
+          "common": "Zimbabwe"
+        }
+      }
+    },
+    "tld": [".zw"],
+    "countryCode": {
+      "cca2": "ZW",
+      "isoAlpha3": "ZWE",
+      "isoNumeric": "716"
+    },
+    "currency": {
+      "name": "Zimbabwean Dollar (2009)",
+      "code": "ZWL",
+      "symbol": "ZWL"
+    },
+    "callingCode": ["263"],
+    "capital": "Harare",
+    "continent": {
+      "name": "Africa",
+      "code": "AF"
+    },
+    "languages": ["bwg", "eng", "kck", "khi", "ndc", "nde", "nya", "sna", "sot", "toi", "tsn", "tso", "ven", "xho", "zib"]
+  }
+}
