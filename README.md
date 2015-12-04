@@ -127,9 +127,10 @@ Location::getAddress(60.023554, 30.2232882,[
 
 CONTRIBUTORS
 -----------
-* Dmitry Fedorov <klka1@live.ru>
-* Doszhan
-* Mark Song
-* Andrey Andreev
-* Anton Filippov
-* Domi Besedin <dimbs09@gmail.com>
+
+* Andrey Andreev [andreev1024](https://github.com/andreev1024)
+* Anton Filippov [vicodinchik](https://github.com/vicodinchik)
+* Dmitry Fedorov [kLkA](https://github.com/kLkA)
+* Domi Besedin [dbsparkle](https://github.com/dbsparkle)
+* Doszhan [Doszhan](https://github.com/Doszhan)
+* Mark Song [hackathon365](https://github.com/hackathon365)
